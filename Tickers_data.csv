@@ -1,0 +1,3128 @@
+,Ticker,Company Name
+0,A,Agilent Technologies
+1,AA,Alcoa Corp
+2,AAC,Aac Holdings Inc
+3,AAN,Aaron's Inc
+4,AAP,Advance Auto Parts Inc
+5,AAT,American Assets Trust
+6,AB,Alliancebernstein Holding LP
+7,ABB,Abb Ltd
+8,ABBV,Abbvie Inc
+9,ABC,Amerisourcebergen Corp
+10,ABEV,Ambev S.A.
+11,ABG,Asbury Automotive Group Inc
+12,ABM,ABM Industries Incorporated
+13,ABR,Arbor Realty Trust
+14,ABR-A,Arbor Rlty TR Inc [Abr/Pa]
+15,ABR-B,Arbor Rlty TR Inc [Abr/Pb]
+16,ABR-C,Arbor Rlty TR Inc [Abr/Pc]
+17,ABT,Abbott Laboratories
+18,AC,Associated Capital Group Inc
+19,ACA,Arcosa Inc
+20,ACB,Aurora Cannabis Inc
+21,ACC,American Campus Communities Inc
+22,ACCO,Acco Brands Corp
+23,ACH,Aluminum Corp of China Ltd
+24,ACM,Aecom Technology Corp
+25,ACN,Accenture Plc
+26,ACP,Avenue Income Credit Strategies
+27,ACP.P,Avenue Income Credit Strategies
+28,ACRE,Ares Commercial Real Estate Cor
+29,ACV,Allianzgi Diversified Income &
+30,ADC,Agree Realty Corp
+31,ADM,Archer Daniels Midland
+32,ADNT,Adient Plc
+33,ADS,Alliance Data Systems Corp
+34,ADSW,Advanced Disposal Services Inc
+35,ADT,ADT Inc
+36,ADX,Adams Express Company
+37,AEB,Aegon N.V. Perp Cap Secs Floating Rate
+38,AEE,Ameren Corp
+39,AEG,Aegon N.V.
+40,AEH,Aegon N.V. Perp Cap Secs
+41,AEL,American Equity Investment Life
+42,AEM,Agnico-Eagle Mines Ltd
+43,AEO,American Eagle Outfitters
+44,AEP,American Electric Power Company
+45,AEP-B,American Elec Pwr Co. Inc [Aep/Pb]
+46,AER,Aercap Holdings N.V.
+47,AES,The Aes Corp
+48,AFB,Alliance National Municipal
+49,AFC,Allied Capital Corp
+50,AFG,American Financial Group
+51,AFGB,American Financial Group Inc 5.875%
+52,AFGE,American Financial Group Inc
+53,AFGH,American Financial Group Inc
+54,AFI,Armstrong Flooring Inc
+55,AFL,Aflac Incorporated
+56,AFT,Apollo Senior Floating Rate Fund Inc
+57,AG,First Majestic Silver
+58,AGCO,Agco Corp
+59,AGD,Alpine Global Dynamic Dividend Fund
+60,AGI,Alamos Gold Inc
+61,AGM,Federal Agricultural Mortgage Corp
+62,AGM-A,Federal Agricultural Mortgage Corp
+63,AGM-C,Federal Agricultural Mortgage Corp
+64,AGM-D,Federal Agricultural Mortgage Corp
+65,AGM.A,Federal Agricultural Mortgage Corp
+66,AGN,Allergan Plc
+67,AGO,Assured Guaranty Ltd
+68,AGO-B,Assured Guaranty Municipal Hldgs IN
+69,AGO-E,Assured Guaranty Municipal Hldgs IN
+70,AGO-F,Assured Guaranty Municipal Hldgs IN
+71,AGR,Avangrid Inc
+72,AGRO,Adecoagro S.A.
+73,AGS,Playags Inc
+74,AGX,Argan Inc
+75,AHC,A.H. Belo Corp
+76,AHH,Armada Hoffler Properties Inc
+77,AHH-A,Armada Hoffler Pptys Inc [Ahh/Pa]
+78,AHL-C,Aspen Insurance Holdings Ltd [Ahl/Pc]
+79,AHL-D,Aspen Insurance Holdings Ltd [Ahl/Pd]
+80,AHL-E,Aspen Insurance Holdings Ltd [Ahl/Pe]
+81,AHT,Ashford Hospitality Trust Inc
+82,AHT-D,Ashford Hospitality TR Inc [Aht/Pd]
+83,AHT-F,Ashford Hospitality TR Inc [Aht/Pf]
+84,AHT-G,Ashford Hospitality TR Inc [Aht/Pg]
+85,AHT-H,Ashford Hospitality TR Inc [Aht/Ph]
+86,AHT-I,Ashford Hospitality TR Inc [Aht/Pi]
+87,AI,Arlington Asset Investment Corp
+88,AI-B,Arlington Asset Investment Corp [Ai/Pb]
+89,AI-C,Arlington Asset Investment Corp [Ai/Pc]
+90,AIC,Arlington Asset Investment Cor
+91,AIF,Apollo Tactical Income Fund Inc
+92,AIG,American International Group
+93,AIG-A,American International Group Inc
+94,AIG.W,American Intl Group Inc [Aig/W]
+95,AIN,Albany International Corp
+96,AIR,AAR Corp
+97,AIT,Applied Industrial Technologies
+98,AIV,Apartment Investment and Management
+99,AIW,Arlington Asset Investment Cor
+100,AIZ,Assurant Inc
+101,AIZP,Assurant Inc 6.50% Series D Mandatory
+102,AJG,Arthur J. Gallagher & Company
+103,AJRD,Aerojet Rocketdyne Holdings
+104,AJX,Great Ajax Corp
+105,AJXA,Great Ajax Corp 7.25% Convertible Senior
+106,AKO.A,Embotell Andina Sa Cl A
+107,AKO.B,Embotell Andna Sa Cl B
+108,AKR,Acadia Realty Trust
+109,AKS,AK Steel Holding Corp
+110,AL,Air Lease Corp Cl A
+111,AL-A,Air Lease Corp [Al/Pa]
+112,ALB,Albemarle Corp
+113,ALC,Alcon Inc
+114,ALE,Allete Inc
+115,ALEX,Alexander and Baldwin Inc
+116,ALG,Alamo Group
+117,ALK,Alaska Air Group
+118,ALL,Allstate Corp
+119,ALL-A,Allstate Corp [All/Pa]
+120,ALL-B,Allstate Corp [All/Pb]
+121,ALL-D,Allstate Corp [All/Pd]
+122,ALL-E,Allstate Corp [All/Pe]
+123,ALL-F,Allstate Corp [All/Pf]
+124,ALL-G,Allstate Corp [All/Pg]
+125,ALL-H,Allstate Corp [All/Ph]
+126,ALL-Y,GMAC Capital Trust I [Ally/Pa]
+127,ALLE,Allegion Plc
+128,ALLY,Ally Financial
+129,ALP-Q,Alabama Power Co. [Alp/Pq]
+130,ALSN,Allison Transmission Holdings
+131,ALV,Autoliv Inc
+132,ALX,Alexander's Inc
+133,AM,Antero Midstream Corp
+134,AMC,Amc Entertainment Holdings Inc
+135,AMCR,Amcor Plc
+136,AME,Amtek Inc
+137,AMG,Affiliated Managers Group
+138,AMH,American Homes 4 Rent
+139,AMH-D,American Homes 4 Rent [Amh/Pd]
+140,AMH-E,American Homes 4 Rent [Amh/Pe]
+141,AMH-F,American Homes 4 Rent [Amh/Pf]
+142,AMH-G,American Homes 4 Rent [Amh/Pg]
+143,AMH-H,American Homes 4 Rent [Amh/Ph]
+144,AMK,Assetmark Financial Holdings Inc
+145,AMN,Amn Healthcare Services Inc
+146,AMOV,America Movil A ADR
+147,AMP,Ameriprise Financial Services
+148,AMPY,Amplify Energy Corp
+149,AMRC,Ameresco Inc
+150,AMRX,Amneal Pharmaceuticals Inc
+151,AMT,American Tower Corp
+152,AMX,America Movil S.A.B. DE C.V.
+153,AN,Autonation Inc
+154,ANET,Arista Networks Inc
+155,ANF,Abercrombie & Fitch Company
+156,ANFI,Amira Nature Foods Ltd
+157,ANH,Anworth Mortgage Asset Corp
+158,ANH-A,Anworth Mortgage Asset Cp [Anh/Pa]
+159,ANH-B,Anworth Mortgage Asset Cp [Anh/Pb]
+160,ANH-C,Anworth Mortgage Asset Cp [Anh/Pc]
+161,ANTM,Anthem Inc
+162,AOD,Alpine Total Dynamic Dividend
+163,AON,AON Plc
+164,AOS,Smith [A.O.] Corp
+165,AP,Ampco-Pittsburgh Corp
+166,APA,Apache Corp
+167,APAM,Artisan Partners Asset Mgmt
+168,APD,Air Products and Chemicals
+169,APH,Amphenol Corp
+170,APHA,Aphria Inc
+171,APLE,Apple Hospitality REIT Inc
+172,APO,Apollo Global Management Llc C
+173,APO-A,Apollo Global Mgmt Inc [Apo/Pa]
+174,APO-B,Apollo Global Mgmt Inc [Apo/Pb]
+175,APRN,Blue Apron Holdings Inc
+176,APTS,Preferred Apartment Communities
+177,APTV,Aptiv Plc
+178,APY,Apergy Corp
+179,AQN,Algonquin Pwr & Util
+180,AQNA,Algonquin Power & Utilities Corp
+181,AQNB,Algonquin Power & Utilities Corp 6.20%
+182,AQUA,Evoqua Water Technologies Corp
+183,AR,Antero Resources Corp
+184,ARA,American Renal Associates
+185,ARC,American Reprographics Company
+186,ARCH,Arch Coal Inc
+187,ARCO,Arcos Dorados Holdings Inc
+188,ARD,Ardagh Group S.A.
+189,ARDC,Ares Dynamic Credit Allocation
+190,ARE,Alexandria Real Estate Equities
+191,ARE-A,Ares Management Corp [Ares/Pa]
+192,ARE-D,Alexandria Real Estate Eq Inc [Are/Pd]
+193,ARES,Ares Management LP
+194,ARGD,Argo Grp Itl Snr NTS
+195,ARGO,Argo Group Intl Hlds
+196,ARI,Apollo Commercial Real Estate
+197,ARL,American Realty Investors
+198,ARLO,Arlo Technologies Inc
+199,ARMK,Aramark Holdings Corp
+200,ARNC,Arconic Inc
+201,AROC,Archrock Inc
+202,ARR,Armour Residential R
+203,ARR-B,Armour Residential REIT Inc [Arr/Pb]
+204,ARW,Arrow Electronics
+205,ASA,ASA Gold and Precious Metals
+206,ASB,Associated Banc-Corp
+207,ASB-C,Associated Banc-Corp [Asb/Pc]
+208,ASB-D,Associated Banc-Corp [Asb/Pd]
+209,ASB-E,Associated Banc-Corp [Asb/Pe]
+210,ASC,Ardmore Shipping Corp
+211,ASG,Liberty All-Star Growth Fund
+212,ASGN,On Assignment
+213,ASH,Ashland Global Holdings Inc
+214,ASIX,Advansix Inc
+215,ASPN,Aspen Aerogels Inc
+216,ASR,Grupo Aeroportuario Del Sureste
+217,ASX,Ase Industrial Holding Co. Ltd
+218,AT,Atlantic Power Corp
+219,ATEN,A10 Networks Inc
+220,ATGE,Adtalem Global Education Inc
+221,ATH,Athene Holding Ltd
+222,ATH-A,Athene Hldg Ltd [Ath/Pa]
+223,ATH-B,Antah Hldgs Ltd
+224,ATHM,Autohome Inc
+225,ATI,Allegheny Technologies Inc
+226,ATKR,Atkore International Group
+227,ATO,Atmos Energy Corp
+228,ATR,Aptargroup
+229,ATTO,Atento S.A.
+230,ATU,Actuant Corp
+231,ATUS,Altice USA Inc Cl A
+232,ATV,Acorn International
+233,AU,Anglogold Ashanti Ltd
+234,AUO,Au Optronics Corp
+235,AUY,Yamana Gold
+236,AVA,Avista Corp
+237,AVAL,Grupo Aval Acciones Y Valores S
+238,AVB,Avalonbay Communities
+239,AVD,American Vanguard Corp
+240,AVH,Avianca Holdings S.A.
+241,AVK,Advent Claymore Convertible Securities
+242,AVLR,Avalara Inc
+243,AVNS,Avanos Medical Inc
+244,AVP,Avon Products
+245,AVT-A,Avantor Inc [Avtr/Pa]
+246,AVTR,Avantor Inc
+247,AVX,Avx Corp
+248,AVY,Avery Dennison Corp
+249,AVYA,Avaya Holdings Corp
+250,AWF,Alliancebernstein Global High Income
+251,AWI,Armstrong World Industries Inc
+252,AWK,American Water Works
+253,AWP,Alpine Global Premier Propertie
+254,AWR,American States Water Company
+255,AX,Axos Financial Inc
+256,AXE,Anixter International Inc
+257,AXL,American Axle & Manufacturing
+258,AXO,Axos Financial Inc
+259,AXP,American Express Company
+260,AXR,Amrep Corp
+261,AXS,Axis Capital Holdings
+262,AXS-D,Axis Capital Holdings Ltd [Axs/Pd]
+263,AXS-E,Axis Capital Holdings Ltd [Axs/Pe]
+264,AXTA,Axalta Coating Systems Ltd
+265,AYI,Acuity Brands Inc
+266,AYR,Aircastle Ltd
+267,AYX,Alteryx Inc
+268,AZN,Astrazeneca Plc
+269,AZO,Autozone
+270,AZRE,Azure Power Global Ltd
+271,AZUL,Azul S.A. ADR
+272,AZZ,Azz Inc
+273,B,Barnes Group
+274,BA,Boeing Company
+275,BABA,Alibaba Group Holding
+276,BAC,Bank of America Corp
+277,BAC-A,Bank of America Corp [Bac/Pa]
+278,BAC-B,Bank of America Corp [Bac/Pb]
+279,BAC-C,Bank of America Corp [Bac/Pc]
+280,BAC-E,Bank of America Corp [Bac/Pe]
+281,BAC-K,Bank of America Corp [Bac/Pk]
+282,BAC-L,Bank of America Corp [Bac/Pl]
+283,BAC-M,Bank of America Corp [Bac/Pm]
+284,BAC-N,Bank of America Corp Prf Perpetual USD
+285,BAC-Y,Bank of America Corp [Bac/Py]
+286,BAF,Blackrock Income Inv Quality Trust
+287,BAH,Booz Allen Hamilton Holding Corp
+288,BAK,Braskem S.A.
+289,BAM,Brookfield Asset Management Inc
+290,BAN-D,Banc of California Inc [Banc/Pd]
+291,BAN-E,Banc of California Inc [Banc/Pe]
+292,BANC,First Pactrust Bancorp
+293,BAP,Credicorp Ltd
+294,BAS,Basic Energy Services
+295,BAX,Baxter International Inc
+296,BB,Blackberry Ltd
+297,BBAR,Bbva Banco Frances S.A.
+298,BBD,Banco Bradesco S.A.
+299,BBDC,Barings Bdc Inc
+300,BBDO,Banco Bradesco S.A.
+301,BBF,Blackrock Muni Income Trust
+302,BBK,Blackrock Muni Trust
+303,BBL,Bhp Billiton Plc
+304,BBN,Balckrock Build America Trust
+305,BBT,BB&T; Corp
+306,BBT-F,BB&T; Corp [Bbt/Pf]
+307,BBT-G,BB&T; Corp [Bbt/Pg]
+308,BBT-H,BB&T; Corp [Bbt/Ph]
+309,BBU,Brookfield Business Partners LP
+310,BBVA,Banco Bilbao Viscaya Argentaria S.A.
+311,BBW,Build-A-Bear Workshop
+312,BBX,Bbx Capital Corp
+313,BBY,Best Buy Company
+314,BC,Brunswick Corp
+315,BC-A,Brunswick Corp [Bc/Pa]
+316,BC-B,Brunswick Corp [Bc/Pb]
+317,BC-C,Brunswick Corp [Bc/Pc]
+318,BCC,Boise Cascade L.L.C.
+319,BCE,BCE Inc
+320,BCEI,Bonanza Creek Energy Inc
+321,BCH,Banco DE Chile
+322,BCO,Brink's Company
+323,BCRH,Blue Capital Reinsurance
+324,BCS,Barclays Plc
+325,BCSF,Bain Capital Specialty Finance Inc
+326,BCX,Blackrock Resources
+327,BDC,Belden Inc
+328,BDJ,Blackrock Enhanced Dividend Achievers
+329,BDN,Brandywine Realty Trust
+330,BDX,Becton Dickinson and Company
+331,BDXA,Becton Dickinson & Company
+332,BE,Bloom Energy Corp Cl A
+333,BEDU,Bright Scholar Education Holdings Ltd
+334,BEN,Franklin Resources
+335,BEP,Brookfield Renewable
+336,BERY,Berry Global Group
+337,BEST,Best Inc
+338,BF.A,Brown Forman Inc Cl A
+339,BF.B,Brown Forman Inc Cl B
+340,BFAM,Bright Horizons Family Solutions Inc
+341,BFK,Blackrock Muni Income Trust
+342,BFO,Blackrock Florida Muni 2020 Trust
+343,BFS,Saul Centers
+344,BFS-C,Saul Ctrs Inc [Bfs/Pc]
+345,BFS-D,Saul Ctrs Inc [Bfs/Pd]
+346,BFS-E,Saul Centers Inc Prf Perpetual USD Ser E
+347,BFY,Blackrock New York Muni Trust II
+348,BFZ,Blackrock California Muni Trust
+349,BG,Bunge Ltd
+350,BGB,Blackstone / Gso Strategic Cre
+351,BGG,Briggs & Stratton Corp
+352,BGH,Babson Capital Global Short Du
+353,BGIO,Blackrock 2022 Global Income Opportunity
+354,BGR,Blackrock Energy and Resources Trust
+355,BGS,B&G; Foods Holdings
+356,BGT,Blackrock Global
+357,BGX,Blackstone Gso Long Short Credit Fund
+358,BGY,Blackrock International
+359,BH,Biglari Holdings Inc
+360,BH.A,Biglari Holdings Inc Cl A
+361,BHC,Bausch Health Companies Inc
+362,BHE,Benchmark Electronics
+363,BHGE,Baker Hughes A Ge Co. Cl A
+364,BHK,Blackrock Core Trust
+365,BHLB,Berkshire Hills Bancorp
+366,BHP,Bhp Billiton Ltd
+367,BHR,Braemar Hotels & Resorts Inc
+368,BHR-B,Braemar Hotels & Resorts Inc [Bhr/Pb]
+369,BHR-D,Braemar Hotels & Resorts Inc [Bhr/Pd]
+370,BHV,Blackrock Virginia Muni Trust
+371,BHVN,Biohaven Pharmaceutical Holding Company
+372,BID,Sotheby's Holdings
+373,BIF,Boulder Growth & Income Fund Inc
+374,BIG,Big Lots
+375,BIO,Bio-Rad Laboratories
+376,BIO.B,Bio Rad Labs Cl B
+377,BIP,Brookfield Infrastructure Partners LP
+378,BIT,Blackrock Multi-Sector Income T
+379,BITA,Bitauto Holdings Ltd
+380,BJ,Bj's Wholesale Club Holdings Inc
+381,BK,Bank of New York Mellon Corp
+382,BK-C,Bank of New York Mellon Corp [Bk/Pc]
+383,BKD,Brookdale Senior Living Inc
+384,BKE,Buckle Inc
+385,BKH,Black Hills Corp
+386,BKI,Black Knight Inc
+387,BKK,Blackrock Muni 2020 Trust
+388,BKN,Blackrock Investment Quality Municipal
+389,BKR,Baker Hughes A Ge Co. Cl A
+390,BKT,Blackrock Income Trust Inc
+391,BKU,BankUnited Inc
+392,BLD,Topbuild Corp
+393,BLE,Blackrock Muni Income Trust II
+394,BLK,Blackrock
+395,BLL,Ball Corp
+396,BLW,Blackrock Ltd Duration Income Trust
+397,BLX,Banco Latinoamericano DE Comercio
+398,BMA,Banco Macro S.A.
+399,BME,Blackrock Health Sciences Trust
+400,BMI,Badger Meter
+401,BML-G,Bank of America Corp [Bml/Pg]
+402,BML-H,Bank of America Corp [Bml/Ph]
+403,BML-J,Bank of America Corp [Bml/Pj]
+404,BML-L,Bank of America Corp [Bml/Pl]
+405,BMO,Bank of Montreal
+406,BMY,Bristol-Myers Squibb Company
+407,BNED,Barnes & Noble Education Inc C
+408,BNS,Bank of Nova Scotia
+409,BNY,Blackrock New York Muni Trust Inc
+410,BOE,Blackrock Global
+411,BOH,Bank of Hawaii Corp
+412,BOOT,Boot Barn Holdings Inc
+413,BORR,Borr Drilling Ltd
+414,BOX,Box Inc
+415,BP,BP Plc
+416,BPL,Buckeye Partners LP
+417,BPMP,BP Midstream Partners LP
+418,BPT,BP Prudhoe Bay Royalty Trust
+419,BQH,Blackrock New York Muni Trust
+420,BR,Broadridge Financial Solutions Llc
+421,BRBR,Bellring Brands Inc Cl A
+422,BRC,Brady Corp
+423,BRFS,Brf-Brasil Foods S.A.
+424,BRK.A,Berkshire Hathaway Cl A
+425,BRK.B,Berkshire Hathaway Cl B
+426,BRO,Brown & Brown
+427,BRP.U,B Riley Principal Merger Corp [Brpm.U]
+428,BRP.W,B Riley Principal Merger Corp [Brpm/W]
+429,BRPM,B. Riley Principal Merger Corp
+430,BRT,BRT Realty Trust
+431,BRX,Brixmor Property Group Inc
+432,BSA,Brightsphere Investment Group Plc
+433,BSAC,Banco Santander Chile ADR
+434,BSBR,Banco Santander Brasil S.A.
+435,BSD,Blackrock Strategic Muni Trust Inc
+436,BSE,Blackrock New York Muni Income Trust
+437,BSIG,Brightsphere Investment Group Plc
+438,BSL,Blackstone Gso Senior Floating Rate
+439,BSM,Black Stone Minerals LP
+440,BSMX,Grupo Financiero Santander Mexico
+441,BST,Blackrock Science and Technolo
+442,BSTZ,Blackrock Science and Technology Trust
+443,BSX,Boston Scientific Corp
+444,BTA,Blackrock Long-Term Muni Advantage Trust
+445,BTE,Baytex Energy Corp
+446,BTI,British American Tobacco Industries
+447,BTO,John Hancock Bank and Thrift Fund
+448,BTT,Blackrock Municipal Target Term
+449,BTU,Peabody Energy Corp
+450,BTZ,Blackrock Preferred
+451,BUD,Anheuser-Busch Inbev S.A.
+452,BUI,Blackrock Utility and Infrastr
+453,BURL,Burlington Stores Inc
+454,BV,Brightview Holdings Inc
+455,BVN,Compania Mina Buenaventura S.A.
+456,BW,Babcock & Wilcox Enterprises
+457,BWA,Borgwarner Inc
+458,BWG,Legg Mason Bw Global Income
+459,BWXT,Bwx Technologies Inc
+460,BX,The Blackstone Group LP
+461,BXC,Bluelinx Holdings Inc
+462,BXG,Bluegreen Vacations Corp
+463,BXMT,Blackstone Mortgage Trust Inc Cl A
+464,BXMX,Nuveen Equity Premium
+465,BXP,Boston Properties
+466,BXP-B,Boston Properties Inc [Bxp/Pb]
+467,BXS,Bancorpsouth Inc
+468,BY,Byline Bancorp Inc
+469,BYD,Boyd Gaming Corp
+470,BYM,Blackrock Muni Income Quality Trust
+471,BZH,Beazer Homes USA
+472,BZM,Blackrock Maryland Muni Trust
+473,C,Citigroup Inc
+474,C-J,Citigroup Inc [C/Pj]
+475,C-K,Citigroup Inc [C/Pk]
+476,C-N,Citigroup Cap XiII [C/Pn]
+477,C-S,Citigroup Inc [C/Ps]
+478,CAAP,Corporacion America Airports Sa
+479,CABO,Cable One Inc
+480,CACI,Caci International
+481,CADE,Cadence Bancorp Cl A
+482,CAE,Cae Inc
+483,CAF,Morgan Stanley China A Share Fund Inc
+484,CAG,Conagra Brands Inc
+485,CAH,Cardinal Health
+486,CAI,Cai International
+487,CAI-A,Cai International Inc [Cai/Pa]
+488,CAI-B,Cai International Inc [Cai/Pb]
+489,CAJ,Canon Inc
+490,CAL,Caleres Inc
+491,CALX,Calix Inc
+492,CANG,Cango Inc ADR
+493,CAPL,Crossamerica Partners LP
+494,CARS,Cars.com Inc
+495,CAT,Caterpillar Inc
+496,CATO,Cato Corp
+497,CB,Chubb Ltd
+498,CBB,Cincinnati Bell Inc
+499,CBB-B,Cincinnati Bell Inc [Cbb/Pb]
+500,CBD,Companhia Brasileira DE Distribuicao
+501,CBH,Allianzgi Convertible Income 2024 Target
+502,CBL,Cbl & Associates Properties
+503,CBL-D,Cbl & Assoc Pptys Inc [Cbl/Pd]
+504,CBL-E,Cbl & Assoc Pptys Inc [Cbl/Pe]
+505,CBM,Cambrex Corp
+506,CBPX,Continental Building Products
+507,CBRE,CBRE Group Inc
+508,CBS,CBS Corp
+509,CBS.A,CBS Corp Cl A
+510,CBT,Cabot Corp
+511,CBU,Community Bank System
+512,CBZ,Cbiz Inc
+513,CC,Chemours Company
+514,CCC,Clarivate Analytics Plc
+515,CCEP,Coca Cola European Partners
+516,CCH,Collier Creek Holdings Cl A
+517,CCH.U,Collier Creek Holdings
+518,CCH.W,Collier Creek Holdings [Cch/W]
+519,CCI,Crown Castle International Corp
+520,CCI-A,Crown Castle Intl Corp [Cci/Pa]
+521,CCJ,Cameco Corp
+522,CCK,Crown Cork & Seal Company
+523,CCL,Carnival Corp
+524,CCM,Concord Medical Services
+525,CCO,Clear Channel Outdoor Holdings
+526,CCR,Consol Coal Resources LP
+527,CCS,Century Communities Inc
+528,CCU,Compania Cervecerias Unidas S.A.
+529,CCX,Churchill Capital Corp II
+530,CCX.U,Churchill Capital Corp II
+531,CCX.W,Churchill Cap Corp II [Ccx/W]
+532,CCZ,Comcast Corp
+533,CDAY,Ceridian Hcm Holding Inc
+534,CDE,Coeur Mining Inc
+535,CDR,Cedar Shopping Centers Inc
+536,CDR-B,Cedar Realty Trust Inc [Cdr/Pb]
+537,CDR-C,Cedar Realty Trust Inc [Cdr/Pc]
+538,CE,Celanese Corp
+539,CEA,China Eastern Airlines Corp Ltd
+540,CEE,Central Europe and Russia Fund
+541,CEIX,Consol Energy Inc
+542,CEL,Cellcom Israel
+543,CELP,Cypress Energy Partners LP
+544,CEM,Clearbridge Energy MLP Fund Inc
+545,CEN,Center Coast MLP & Infrastructure
+546,CEO,Cnooc Ltd
+547,CEPU,Central Puerto S.A. ADR
+548,CEQ.P,Crestwood Equity Partners LP [Ceqp/P]
+549,CEQP,Crestwood Equity Partners LP
+550,CF,Cf Industries Holdings
+551,CFG,Citizens Financial Group Inc/Ri
+552,CFG-D,RBS Citizens Finl Group Inc [Cfg/Pd]
+553,CFR,Cullen/Frost Bankers
+554,CFR-A,Cullen Frost Bankers [Cfr/Pa]
+555,CFX,Colfax Corp
+556,CFXA,Colfax Corp Tangible Equity Unit
+557,CGA,China Green Agriculture
+558,CGC,Canopy Growth Corp
+559,CHA,China Telecom Corp Ltd
+560,CHAP,Chaparral Energy Inc
+561,CHCT,Community Healthcare Trust Inc
+562,CHD,Church & Dwight Company
+563,CHE,Chemed Inc
+564,CHGG,Chegg Inc
+565,CHH,Choice Hotels International
+566,CHK,Chesapeake Energy Corp
+567,CHK-D,Chesapeake Energy Corp [Chk/Pd]
+568,CHKR,Chesapeake Granite Wash Trust
+569,CHL,China Mobile [Hong Kong] Ltd
+570,CHM-A,Cherry Hill Mtg Invt Corp [Chmi/Pa]
+571,CHM-B,Cherry Hill Mtg Invt Corp [Chmi/Pb]
+572,CHMI,Cherry Hill Mortgage Investmen
+573,CHN,China Fund
+574,CHRA,Charah Solutions Inc
+575,CHS,Chico's Fas
+576,CHT,Chunghwa Telecom Co. Ltd
+577,CHU,China Unicom [Hong Kong] Ltd
+578,CHWY,Chewy Inc
+579,CI,Cigna Corp
+580,CIA,Citizens Inc
+581,CIB,Bancolombia S.A.
+582,CIEN,Ciena Corp
+583,CIF,Colonial Intermediate High
+584,CIG,Comp En DE MN Cemig ADR
+585,CIG.C,Comp En DE MN Cemig ADR Cl C
+586,CII,Blackrock Capital and Income Strategies
+587,CIM,Chimera Investment Corp
+588,CIM-A,Chimera Invt Corp [Cim/Pa]
+589,CIM-B,Chimera Invt Corp [Cim/Pb]
+590,CIM-C,Chimera Invt Corp [Cim/Pc]
+591,CIM-D,Chimera Invt Corp [Cim/Pd]
+592,CINR,Ciner Resources LP
+593,CIO,City Office REIT Inc
+594,CIO-A,City Office REIT Inc [Cio/Pa]
+595,CIR,Circor International
+596,CISN,Cision Ltd
+597,CIT,Cit Group Inc
+598,CJ,C&J; Energy Services Inc
+599,CKH,Seacor Smit Inc
+600,CL,Colgate-Palmolive Company
+601,CLB,Core Laboratories N.V.
+602,CLDR,Cloudera Inc
+603,CLDT,Chatham Lodging Trust [Reit]
+604,CLF,Cleveland-Cliffs Inc
+605,CLGX,Corelogic
+606,CLH,Clean Harbors
+607,CLI,Mack-Cali Realty Corp
+608,CLN-B,Colony Cap Inc [Clny/Pb]
+609,CLN-E,Colony Cap Inc [Clny/Pe]
+610,CLN-G,Colony Cap Inc [Clny/Pg]
+611,CLN-H,Colony Cap Inc [Clny/Ph]
+612,CLN-I,Colony Cap Inc [Clny/Pi]
+613,CLN-J,Colony Cap Inc [Clny/Pj]
+614,CLNC,Colony Northstar Credit Real Estate Inc
+615,CLNY,Colony Capital Inc
+616,CLPR,Clipper Realty Inc
+617,CLR,Continental Resources
+618,CLS,Celestica Inc
+619,CLW,Clearwater Paper Corp
+620,CLX,Clorox Company
+621,CM,Canadian Imperial Bank of Commerce
+622,CMA,Comerica Inc
+623,CMC,Commercial Metals Company
+624,CMCM,Cheetah Mobile Inc
+625,CMD,Cantel Medical
+626,CMG,Chipotle Mexican Grill
+627,CMI,Cummins Inc
+628,CMO,Capstead Mortgage Corp
+629,CMO-E,Capstead Mtge.Corp [Cmo/Pe]
+630,CMP,Compass Minerals Intl Inc
+631,CMR-B,Costamare Inc [Cmre/Pb]
+632,CMR-C,Costamare Inc [Cmre/Pc]
+633,CMR-D,Costamare Inc [Cmre/Pd]
+634,CMR-E,Costamare Inc [Cmre/Pe]
+635,CMRE,Costamare Inc
+636,CMS,Cms Energy Corp
+637,CMS-B,Consumers Energy Company [Cms/Pb]
+638,CMSA,Cms Energy Corp 5.625% Junior
+639,CMSC,Cms Energy Corp
+640,CMSD,Cms Energy Corp 5.875% Junior
+641,CMU,Colonial Muni Income Trust
+642,CNA,Cna Financial Corp
+643,CNC,Centene Corp
+644,CNDT,Conduent Inc
+645,CNF,Cnfinance Holdings Ltd ADR
+646,CNHI,CNH Industrial N.V.
+647,CNI,Canadian National Railway
+648,CNK,Cinemark Holdings Inc
+649,CNNE,Cannae Holdings Inc
+650,CNO,Cno Financial Group
+651,CNP,Centerpoint Energy Inc
+652,CNP-B,Centerpoint Energy Inc [Cnp/Pb]
+653,CNQ,Canadian Natural Resources
+654,CNR,Cornerstone Building Brands Inc
+655,CNS,Cohn & Steers Inc
+656,CNX,CNX Resources Corp
+657,CNXM,CNX Midstream Partners LP
+658,CO,Global Cord Blood Corp
+659,COD-A,Compass Div Holdings [Codi/Pa]
+660,COD-B,Compass Div Holdings [Codi/Pb]
+661,CODI,Compass Diversified Holdings
+662,COE,China Online Education Group
+663,COF,Capital One Financial Corp
+664,COF-C,Capital One Financial Corp [Cof/Pc]
+665,COF-D,Capital One Financial Corp [Cof/Pd]
+666,COF-F,Capital One Financial Corp [Cof/Pf]
+667,COF-G,Capital One Financial Corp [Cof/Pg]
+668,COF-H,Capital One Financial Corp [Cof/Ph]
+669,COF-I,Capital One Financial Corp Prf Perpetual
+670,COF-P,Capital One Financial Corp [Cof/Pp]
+671,COG,Cabot Oil & Gas Corp
+672,COLD,Americold Realty Trust
+673,COO,Cooper Companies
+674,COP,Conocophillips
+675,COR,Coresite Realty Corp
+676,COR-Z,Corenergy Infrastructure TR IN [Corr/Pa]
+677,CORR,Corenergy Infrastructure Trust Inc
+678,COT,Cott Corp
+679,COTY,Coty Inc
+680,CP,Canadian Pacific Railway
+681,CPA,Copa Holdings S.A.
+682,CPAC,Cementos Pacasmayo S.A.A
+683,CPB,Campbell Soup Company
+684,CPE,Callon Petroleum Company
+685,CPF,Central Pacific Financial Company
+686,CPG,Crescent Pt Energy
+687,CPK,Chesapeake Utilities Corp
+688,CPL,Cpfl Energia S.A.
+689,CPLG,Corepoint Lodging Inc
+690,CPRI,Capri Holdings Ltd
+691,CPS,Cooper Std Hldg Inc
+692,CPT,Camden Property Trust
+693,CR,Crane Company
+694,CRC,California Resources Corp
+695,CRCM,Care.com Inc
+696,CRD.A,Crawford Co. Cl A
+697,CRD.B,Crawford Co. Cl B
+698,CRH,CRH Plc
+699,CRI,Carter's Inc
+700,CRK,Comstock Resources
+701,CRL,Charles River Laboratories Intl
+702,CRM,Salesforce.com Inc
+703,CRR,Carbo Ceramics
+704,CRS,Carpenter Technology Corp
+705,CRT,Cross Timbers Royalty Trust
+706,CRY,Cryolife
+707,CS,Credit Suisse Group
+708,CSL,Carlisle Companies Inc
+709,CSLT,Castlight Health Inc
+710,CSS,Css Industries
+711,CSTM,Constellium N.V.
+712,CSU,Capital Senior Living Corp
+713,CSV,Carriage Services
+714,CTA-A,Du Pont[E.I.]De Nemours & Co. [Cta/Pa]
+715,CTA-B,Du Pont[E.I.]De Nemours & Co. [Cta/Pb]
+716,CTAA,Qwest Corp
+717,CTB,Cooper Tire & Rubber Company
+718,CTBB,Qwest Corp
+719,CTDD,Qwest Corp 6.75% Notes Due 2057
+720,CTK,Cootek [Cayman] Inc
+721,CTL,Centurylink
+722,CTLT,Catalent Inc
+723,CTR,Clearbridge Energy MLP Fund IN
+724,CTRA,Contura Energy Inc
+725,CTS,Cts Corp
+726,CTST,Canntrust Holdings Inc
+727,CTT,Catchmark Timber Trust Inc
+728,CTV,Qwest Corp
+729,CTVA,Corteva Inc
+730,CTY,Qwest Corp
+731,CTZ,Qwest Corp 6.625% Notes
+732,CUB,Cubic Corp
+733,CUB-C,Customers Bancorp Inc [Cubi/Pc]
+734,CUB-D,Customers Bancorp Inc [Cubi/Pd]
+735,CUB-E,Customers Bancorp Inc [Cubi/Pe]
+736,CUB-F,Customers Bancorp Inc [Cubi/Pf]
+737,CUBE,Cubesmart
+738,CUBI,Customers Bancorp
+739,CUK,Carnival Plc ADR
+740,CULP,Culp Inc
+741,CURO,Curo Group Holdings Corp
+742,CUZ,Cousins Properties Inc
+743,CVA,Covanta Holding Corp
+744,CVE,Cenovus Energy Inc
+745,CVEO,Civeo Corp
+746,CVI,Cvr Energy Inc
+747,CVIA,Covia Holdings Corp
+748,CVNA,Carvana Co. Cl A
+749,CVS,CVS Corp
+750,CVX,Chevron Corp
+751,CW,Curtiss-Wright Corp
+752,CWE.A,Clearway Energy Inc Cl A
+753,CWEN,Clearway Energy Inc Cl C
+754,CWH,Camping World Holdings Inc
+755,CWK,Cushman & Wakefield Plc
+756,CWT,California Water Service Group Holding
+757,CX,Cemex S.A.B. DE C.V.
+758,CXE,Colonial High Income Muni Trust
+759,CXH,Colonial Investment Grade Muni Trust
+760,CXO,Concho Resources Inc
+761,CXP,Columbia Property Trust Inc
+762,CXW,Corecivic Inc
+763,CYD,China Yuchai International
+764,CYH,Community Health Systems
+765,CZZ,Cosan Ltd
+766,D,Dominion Resources
+767,DAC,Danaos Corp
+768,DAL,Delta Air Lines Inc
+769,DAN,Dana Inc
+770,DAR,Darling International Inc
+771,DAVA,Endava Plc
+772,DB,Deutsche Bank Ag
+773,DBD,Diebold Nixdorf Inc
+774,DBI,Designer Brands Inc
+775,DBL,Doubleline Opportunistic Credi
+776,DCF,Dreyfus Alcentra Global Credit Income
+777,DCI,Donaldson Company
+778,DCO,Ducommun Inc
+779,DCP,Dcp Midstream LP
+780,DCP-B,Dcp Midstream LP [Dcp/Pb]
+781,DCP-C,Dcp Midstream LP [Dcp/Pc]
+782,DCUE,Dominion Energy Inc 2019 Series A
+783,DD,Du Pont De.Nemours Inc
+784,DDD,DDF
+785,Delaware Dividend & Income,DDS
+786,Dillard's,DDT
+787,Dillard's,DE
+788,Deere & Company,DEA
+789,Easterly Government Properties,DECK
+790,Deckers Outdoor Corp,DEI
+791,Douglas Emmett,DELL
+792,Dell Technologies Inc,DEO
+793,Diageo Plc,DESP
+794,Despegar.com Corp,DEX
+795,Delaware Enhanced Global Dividend,DF
+796,Dean Foods Company,DFIN
+797,Donnelly Financial Solutions Inc,DFP
+798,Flaherty & Crumrine Dynamic,DFS
+799,Discover Financial Services,DG
+800,Dollar General Corp,DGX
+801,Quest Diagnostics Inc,DHF
+802,Dreyfus High Yield Strategies Fund,DHI
+803,D.R. Horton,DHR
+804,Danaher Corp,DHR-A
+805,Danaher Corp [Dhr/Pa],DHT
+806,Dht Holdings,DHX
+807,Dice Holdings,DIAX
+808,Nuveen Dow,DIN
+809,Dineequity Inc,DIS
+810,Walt Disney Company,DK
+811,Delek US Holdings,DKL
+812,Delek Logistics Partners LP,DKS
+813,Dick's Sporting Goods Inc,DKT
+814,Deutsch Bk Contingent Cap TR V,DL
+815,China Distance Education Holdings,DLB
+816,Dolby Laboratories,DLN-A
+817,Dynagas Lng Partners LP [Dlng/Pa],DLN-B
+818,Dynagas Lng Partners LP [Dlng/Pb],DLNG
+819,Dynagas Lng Partners LP,DLPH
+820,Delphi Technologies Plc,DLR
+821,Digital Realty Trust,DLR-C
+822,Digital Rlty TR Inc [Dlr/Pc],DLR-G
+823,Digital Rlty TR Inc [Dlr/Pg],DLR-I
+824,Digital Rlty TR Inc [Dlr/Pi],DLR-J
+825,Digital Rlty TR Inc [Dlr/Pj],DLR-K
+826,Digital Rlty TR Inc [Dlr/Pk],DLR-L
+827,Digital Realty Trust Inc 5.20% Prf,DLX
+828,Deluxe Corp,DMB
+829,Dreyfus Municipal Bond Infrastr,DMO
+830,Western Asset Mortgage Defined Opp,DNI
+831,Chartwell Dividend & Income Fund,DNOW
+832,Now Inc,DNP
+833,Duff & Phelps Utilities Income,DNR
+834,Denbury Resources,DO
+835,Diamond Offshore Drilling,DOC
+836,Physicians Realty Trust,DOOR
+837,Masonite Wrldwde Hld,DOV
+838,Dover Corp,DOW
+839,Dow Inc,DPG
+840,Duff & Phelps Global Utility,DPLO
+841,Diplomat Pharmacy Inc,DPZ
+842,Domino's Pizza Inc,DQ
+843,Daqo New Energy,DRD
+844,Drdgold Ltd,DRE
+845,Duke Realty Corp,DRH
+846,Diamondrock Hospitality Company,DRI
+847,Darden Restaurants,DRQ
+848,Dril-Quip,DRUA
+849,Dominion Resources Inc,DS
+850,Drive Shack Inc,DS-B
+851,Drive Shack Inc [Ds/Pb],DS-C
+852,Drive Shack Inc [Ds/Pc],DS-D
+853,Drive Shack Inc [Ds/Pd],DSE
+854,Duff & Phelps Select Energy ML,DSL
+855,Doubleline Income Solutions Fun,DSM
+856,Dreyfus Strategic Muni Bond Fund,DSSI
+857,Diamond S Shipping Inc,DSU
+858,Blackrock Debt Strategies Fund,DSX
+859,Diana Shipping Inc,DSX-B
+860,Diana Shipping Inc [Dsx/Pb],DT
+861,Dynatrace Inc,DTE
+862,Dte Energy Company,DTF
+863,Duff & Phelps Utilities Tax-Free Income,DTJ
+864,Dte Energy Company 2016 Series,DTL.P
+865,Brookfield Dtla Fd Office TR I [Dtla/P],DTQ
+866,Dte Energy Company Sub Deb 62,DTV
+867,Dte Energy Company Corp Unit,DTW
+868,Dte Energy Company 2017 Series E 5.25%,DTY
+869,Dignity Plc,DUC
+870,Duff & Phelps Utility & Corporate Trust,DUK
+871,Duke Energy Corp,DUK-A
+872,Duke Energy Corp [Duk/Pa],DUKB
+873,Duke Energy Corp 5.625%,DUKH
+874,Duke Energy Corp 5.125%,DVA
+875,Davita Healthcare Partners Inc,DVD
+876,Dover Downs Entertainment,DVN
+877,Devon Energy Corp,DX
+878,Dynex Capital,DX-A
+879,Dynex Cap Inc [Dx/Pa],DX-B
+880,Dynex Cap Inc [Dx/Pb],DXB
+881,Deutsche Bk Contingent Cap TR,DXC
+882,Dxc Technology Company,DY
+883,Dycom Industries,E
+884,Eni S.P.A.,EAB
+885,First Mortgage Bonds,EAE
+886,Entergy Arkansas Inc,EAF
+887,Graftech International Ltd,EAI
+888,Entergy Arkansas Inc,EARN
+889,Ellington Residential Mortgage,EAT
+890,Brinker International,EB
+891,Eventbrite Inc,EBF
+892,Ennis Inc,EBR
+893,Centrais Electricas Brazil,EBR.B
+894,Centrais Eletricas Brasileiras ADR,EBS
+895,Emergent Biosolutions,EC
+896,Ecopetrol S.A.,ECA
+897,Encana Corp,ECC
+898,Eagle Point Credit Co. Inc,ECCA
+899,Eagle Point Credit Company Inc,ECCB
+900,Eagle Point Credit Company Inc,ECCX
+901,Eagle Point Credit Company Inc 6.6875%,ECCY
+902,Eagle Point Credit Company Inc,ECL
+903,Ecolab Inc,ECOM
+904,Channeladvisor Corp,ECT
+905,Eca Marcellus Trust,ED
+906,Consolidated Edison Company of New York,EDD
+907,Emerging Markets Domestic Debt Fund,EDF
+908,Stone Harbor Emerging Markets,EDI
+909,Stone Harbor Emerging Markets,EDN
+910,Empresa Distribuidora Y Comercializadora,EDU
+911,New Oriental Education & Technology,EE
+912,El Paso Electric Company,EEA
+913,European Equity Fund,EEX
+914,Emerald Expositions Events Inc,EFC
+915,Ellington Financial Llc,EFC-A
+916,Ellington Financial Inc Pfd.,EFF
+917,Eaton Vance Floating-Rate Inco,EFL
+918,Eaton Vance Floating-Rate 2022 Target,EFR
+919,Eaton Vance Senior Floating-Rate Fund,EFT
+920,Eaton Vance Floating Rate Income Trust,EFX
+921,Equifax Inc,EGF
+922,Blackrock Enhanced Government Fund,EGHT
+923,EGIF,Eagle Growth and Income Opportunity
+924,EGO,Eldorado Gold Corp
+925,EGP,Eastgroup Properties
+926,EGY,Vaalco Energy Inc
+927,EHC,Encompass Health Corp
+928,EHI,Western Asset Global High
+929,EHT,Eaton Vance High Income 2021 Ta
+930,EIC,Eagle Point Income Company Inc
+931,EIG,Employers Holdings Inc
+932,EIX,Edison International
+933,EL,Estee Lauder Companies
+934,ELAN,Elanco Animal Health Inc
+935,ELC,Entergy Louisiana Llc
+936,ELF,E.L.F. Beauty Inc
+937,ELJ,Entergy Louisiana Llc
+938,ELP,Companhia Paranaense DE Energia
+939,ELS,Equity Lifestyle Properties
+940,ELU,Entergy Louisiana Llc First M
+941,ELVT,Elevate Credit Inc
+942,ELY,Callaway Golf Company
+943,EMD,Western Asset Emerging Market Debt Fund
+944,EME,Emcor Group
+945,EMF,Templeton Emerging Markets Fund
+946,EMN,Eastman Chemical Company
+947,EMO,Clearbridge Energy MLP Opportu
+948,EMP,Entergy Mississippi Inc 4.9% Bonds
+949,EMR,Emerson Electric Company
+950,ENB,Enbridge Inc
+951,ENBA,Enbridge Inc 6.375% Fixed-To-Floating
+952,ENBL,Enable Midstream Partners LP
+953,ENIA,Enersis Americas S.A. American
+954,ENIC,Enersis Chile S.A. ADR
+955,ENJ,Entergy New Orleans Inc
+956,ENLC,Enlink Midstream Llc
+957,ENO,Entergy New Orleans Incfirst
+958,ENR,Energizer Holdings Inc
+959,ENR-A,Energizer Holdings Inc [Enr/Pa]
+960,ENS,Enersys Inc
+961,ENV,Envestnet Inc
+962,ENVA,Enova International Inc
+963,ENZ,Enzo Biochem
+964,EOD,Wells Fargo Global Dividend Opportunity
+965,EOG,Eog Resources
+966,EOI,Eaton Vance Enhance Equity
+967,EOS,Eaton Vance Enhanced Equity II
+968,EOT,Eaton Vance Muni Income Trust
+969,EP-C,El Paso Energy Capital [Ep/Pc]
+970,EPAC,Actuant Corp
+971,EPAM,Epam Systems Inc
+972,EPC,Edgewell Personal Care
+973,EPD,Enterprise Products Partners LP
+974,EPR,Entertainment Properties Trust
+975,EPR-C,Epr Pptys [Epr/Pc]
+976,EPR-E,Epr Pptys [Epr/Pe]
+977,EPR-G,Epr Pptys [Epr/Pg]
+978,EPRT,Essential Properties Realty Trust Inc
+979,EQC,Equity Commonwealth
+980,EQC-D,Equity Comwlth [Eqc/Pd]
+981,EQH,Axa Equitable Holdings Inc
+982,EQM,Eqm Midstream Partners LP
+983,EQNR,Equinor ASA
+984,EQR,Equity Residential
+985,EQS,Equus Total Return
+986,EQT,Eqt Corp
+987,ERA,Era Group Inc
+988,ERF,Enerplus Corp
+989,ERJ,Embraer-Empresa Brasileira DE
+990,EROS,Eros International Plc
+991,ES,Eversource Energy
+992,ESE,Esco Technologies Inc
+993,ESI,Element Solutions Inc
+994,ESNT,Essent Group Ltd
+995,ESRT,Empire State Realty Trust Inc
+996,ESS,Essex Property Trust
+997,ESTC,Elastic N.V.
+998,ESTE,Earthstone Energy
+999,ET,Energy Transfer LP
+1000,ETB,Eaton Vance Tax-Managed Buy-Write
+1001,ETG,Eaton Vance Tax-Advantaged Global
+1002,ETH,Ethan Allen Interiors Inc
+1003,ETI.P,Entergy Texas Inc 5.375% Series A
+1004,ETJ,Eaton Vance Risk-Managed Diversified
+1005,ETM,Entercom Communications Corp
+1006,ETN,Eaton Corp
+1007,ETO,Eaton Vance Tax-Advantage Global
+1008,ETP-C,Energy Transfer Operating L P [Etp/Pc]
+1009,ETP-D,Energy Transfer Operating L P [Etp/Pd]
+1010,ETP-E,Energy Transfer Operating L P [Etp/Pe]
+1011,ETR,Entergy Corp
+1012,ETRN,Equitrans Midstream Corp
+1013,ETV,Eaton Vance Corp
+1014,ETW,Eaton Vance Corp
+1015,ETX,Eaton Vance Municipal Income T
+1016,ETY,Eaton Vance Tax-Managed Diversified
+1017,EURN,Euronav NV
+1018,EV,Eaton Vance Corp
+1019,EVA,Enviva Partners LP
+1020,EVC,Entravision Communications Corp
+1021,EVF,Eaton Vance Senior Income Trust
+1022,EVG,Eaton Vance Short Diversified
+1023,EVH,Evolent Health Inc Cl A Com
+1024,EVN,Eaton Vance Muni Income Trust
+1025,EVR,Evercore Partners Inc
+1026,EVRG,Evergy Inc
+1027,EVRI,Everi Holdings Inc
+1028,EVT,Eaton Vance Tax Advantaged Dividend
+1029,EVTC,Evertec Inc
+1030,EW,Edwards Lifesciences Corp
+1031,EXD,Eaton Vance Tax-Advantaged Bond
+1032,EXG,Eaton Vance Tax-Managed Global
+1033,EXK,Endeavour Silver Corp
+1034,EXP,Eagle Materials Inc
+1035,EXPR,Express Inc
+1036,EXR,Extra Space Storage Inc
+1037,EXTN,Exterran Corp
+1038,EZT,First Mortgage Bonds
+1039,F,Ford Motor Company
+1040,F-B,Ford Mtr Co. Del [F/Pb]
+1041,FAF,First American Corp
+1042,FAM,First Trust/Aberdeen Global Opportunity
+1043,FBC,Flagstar Bancorp
+1044,FBHS,Fortune Brands Home & Security
+1045,FBK,Fb Financial Corp
+1046,FBM,Foundation Building Materials Inc
+1047,FBP,First Bancorp
+1048,FC,Franklin Covey Company
+1049,FCAU,Fiat Chrysler Automobiles N.V.
+1050,FCF,First Commonwealth Financial Corp
+1051,FCN,Fti Consulting
+1052,FCPT,Four Corners Property Trust IN
+1053,FCT,Senior Floating Rate II
+1054,FCX,Freeport-Mcmoran Inc
+1055,FDEU,First Trust Dynamic Europe Equi
+1056,FDP,Fresh Del Monte Produce
+1057,FDS,Factset Research Systems Inc
+1058,FDX,Fedex Corp
+1059,FE,Firstenergy Corp
+1060,FEDU,Four Seasons Education [Cayman] Inc
+1061,FEI,First Trust MLP and Energy Inc
+1062,FELP,Foresight Energy LP
+1063,FENG,Phoenix New Media Ltd
+1064,FEO,First Trust/Aberdeen Emerging
+1065,FET,Forum Energy Technologies Inc
+1066,FF,Futurefuel Corp
+1067,FFA,First Trust Enhanced Equity Income Fund
+1068,FFC,Flaherty Crumrine/Claymore Preferred
+1069,FFG,Fbl Financial Group
+1070,FG,Fgl Holdings
+1071,FGB,Specialty Finance and Financial Fund
+1072,FGP,Ferrellgas Partners LP
+1073,FHN,First Horizon National Corp
+1074,FHN-A,First Horizon National Corp [Fhn/Pa]
+1075,FI,Frank's International N.V.
+1076,FICO,Fair Isaac and Company Inc
+1077,FIF,First Trust Energy Infrastruct
+1078,FII,Federated Investors
+1079,FINS,Angel Oak Financial Strategies Income
+1080,FIS,Fidelity National Information Services
+1081,FIT,Fitbit Inc
+1082,FIV,First Trust Senior Floating Rate 2022
+1083,FIX,Comfort Systems USA
+1084,FL,Footlocker Inc
+1085,FLC,Flaherty & Crumrine/Claymore Total
+1086,FLNG,Flex Lng Ltd
+1087,FLO,Flowers Foods
+1088,FLOW,SPX Flow Inc
+1089,FLR,Fluor Corp
+1090,FLS,Flowserve Corp
+1091,FLT,Fleetcor Technologies
+1092,FLY,Fly Leasing Ltd
+1093,FMC,FMC Corp
+1094,FMN,Federated Premier Muni
+1095,FMO,Fiduciary/Claymore MLP Opportunity Fund
+1096,FMS,Fresenius Medical Care Corp
+1097,FMX,Fomento Economico Mexicano S.A.B. DE
+1098,FMY,First Trust/Fidac Mortgage Income Fund
+1099,FN,Fabrinet
+1100,FNB,F.N.B. Corp
+1101,FNB-E,Fnb Corp Florida [Fnb/Pe]
+1102,FND,Floor & Decor Holdings Inc
+1103,FNF,Fidelity National Financial
+1104,FNV,Franco Nev Corp
+1105,FOE,Ferro Corp
+1106,FOF,Cohen & Steers Closed-End Opportunity
+1107,FOR,Forestar Group Inc
+1108,FPA.U,Far Pt Acquisition Corp [Fpac.U]
+1109,FPA.W,Far Point Acquisition Cl A WT
+1110,FPAC,Far Point Acquisition Corp Cl A
+1111,FPF,First Trust Intermediate Durat
+1112,FPH,Five Point Holdings Llc Cl A
+1113,FPI,Farmland Partners Inc
+1114,FPI-B,Farmland Partners Inc [Fpi/Pb]
+1115,FPL,First Trust New Opportunities M
+1116,FR,First Industrial Realty Trust
+1117,FRA,Blackrock Floating Rate Income Fund
+1118,FRAC,Keane Group Inc
+1119,FRC,First Republic Bank
+1120,FRC-D,First Republic Bank San Francisco
+1121,FRC-F,First Republic Bank San Francisco
+1122,FRC-G,First Republic Bank San Francisco
+1123,FRC-H,First Republic Bank San Francisco
+1124,FRC-I,First Rep Bk San Francisco [Frc/Pi]
+1125,FRO,Frontline Ltd
+1126,FRT,Federal Realty Investment Trust
+1127,FRT-C,Federal Realty Invt TR [Frt/Pc]
+1128,FSB,Franklin Financial Network Inc
+1129,FSD,High Income Long Short Fund
+1130,FSK,FS KKR Capital Corp
+1131,FSLY,Fastly Inc
+1132,FSM,Fortuna Silver Mines
+1133,FSS,Federal Signal Corp
+1134,FT,Franklin Universal Trust
+1135,FTA-A,Fortress Transportation and
+1136,FTAI,Fortress Transportation & Infra
+1137,FTCH,Farfetch Ltd Cl A
+1138,FTI,Technipfmc Plc
+1139,FTK,Flotek Industries
+1140,FTS,Fortis Inc
+1141,FTSI,Fts International Inc
+1142,FTV,Fortive Corp
+1143,FTV-A,Fortive Corp [Ftv/Pa]
+1144,FUL,H. B. Fuller Company
+1145,FUN,Cedar Fair LP
+1146,FVRR,Fiverr International Ltd
+1147,G,Genpact Ltd
+1148,GAB,Gabelli Equity Trust
+1149,GAB-D,Gabelli Equity Trust Inc [Gab/Pd]
+1150,GAB-G,Gabelli Equity Trust Inc [Gab/Pg]
+1151,GAB-H,Gabelli Equity Trust Inc [Gab/Ph]
+1152,GAB-J,Gabelli Equity Trust Inc [Gab/Pj]
+1153,GAM,General American Investors
+1154,GAM-B,General Amern Invs Inc [Gam/Pb]
+1155,GATX,GATX Corp
+1156,GBAB,Guggenheim Build America Bonds
+1157,GBL,Gamco Investors
+1158,GBX,Greenbrier Companies
+1159,GCAP,Gain Capital Holdings
+1160,GCI,Gannett Co. Inc
+1161,GCO,Genesco Inc
+1162,GCP,Gcp Applied Technologies Inc C
+1163,GCV,Gabelli Convertible and Income
+1164,GCV-B,Gabelli Conv&Incom; Secs Fd Inc [Gcv/Pb]
+1165,GD,General Dynamics Corp
+1166,GDDY,Godaddy Inc
+1167,GDI,Gardner Denver Holdings Inc
+1168,GDL,The Gdl Fund
+1169,GDL-C,Gdl Fund [Gdl/Pc]
+1170,GDO,Western Asset Global Corporate Defined
+1171,GDOT,Green Dot Corp
+1172,GDV,Gabelli Dividend
+1173,GDV-A,Gabelli Dividend & Income Trust [Gdv/Pa]
+1174,GDV-D,Gabelli Dividend & Income Trust [Gdv/Pd]
+1175,GDV-G,Gabelli Dividend & Income Trust [Gdv/Pg]
+1176,GDV-H,Gabelli Dividend & Income Trust [Gdv/Ph]
+1177,GDV.P,Gabelli Divd & Income TR [Gdv/R]
+1178,GE,General Electric Company
+1179,GEF,Greif Bros. Corp
+1180,GEF.B,Greif Bros. Corp Cl B
+1181,GEL,Genesis Energy LP
+1182,GEN,Genesis Healthcare Inc
+1183,GEO,Geo Group Inc
+1184,GER,Goldman Sachs MLP Energy Renai
+1185,GES,Guess Inc
+1186,GF,New Germany Fund
+1187,GFF,Griffon Corp
+1188,GFI,Gold Fields Ltd
+1189,GFY,Western Asset Variable Rate Strategic
+1190,GGB,Gerdau S.A.
+1191,GGG,Graco Inc
+1192,GGM,Guggenheim Credit Allocation F
+1193,GGT,Gabelli Global Multi-Media Trust
+1194,GGT-B,Gabelli Multimedia Trust Inc [Ggt/Pb]
+1195,GGT-E,Gabelli Multimedia Trust Inc [Ggt/Pe]
+1196,GGZ,Gabelli Global Small and Mid CA
+1197,GGZ-A,Gabelli Global Small & Mid Cap Val
+1198,GHC,Graham Holdings Company
+1199,GHG,Greentree Hospitality Group Ltd ADR
+1200,GHL,Greenhill & Co. Inc
+1201,GHM,Graham Corp
+1202,GHY,Prudential Global Short Durati
+1203,GIB,CGI Group
+1204,GIG,Gigcapital Inc
+1205,GIG.P,Gigcapital Inc [Gig/R]
+1206,GIG.U,Gigcapital Inc
+1207,GIG.W,Gigcapital Inc [Gig/W]
+1208,GIL,Gildan Activewear
+1209,GIM,Templeton Global
+1210,GIS,General Mills
+1211,GIX,Gigcapital2 Inc
+1212,GIX.P,Gigcapital2 Inc [Gix/R]
+1213,GIX.U,Gigcapital2 Inc
+1214,GIX.W,Gigcapital2 Inc [Gix/W]
+1215,GJH,Strats Sm Trust For United States
+1216,GJO,Strats Sm Trust For Wal-Mart Stores Inc
+1217,GJP,Strats Sm Trust For Dominion Resources
+1218,GJR,Strats Sm Trust For The Procter & Gamble
+1219,GJS,Strats Sm Trust For Goldman Sachs Group
+1220,GJT,Strats Sm Trust For Allstate Corp
+1221,GJV,Strats Sm Trust For News Corp Securities
+1222,GKOS,Glaukos Corp
+1223,GL,Globe Life Inc
+1224,GL-C,Globe Life Inc [Gl/Pc]
+1225,GLO-A,Gaslog Partners LP [Glop/Pa]
+1226,GLO-B,Gaslog Partners LP [Glop/Pb]
+1227,GLO-C,Gaslog Partners LP [Glop/Pc]
+1228,GLO-G,Gaslog Ltd [Glog/Pa]
+1229,GLOB,Globant S.A.
+1230,GLOG,Gaslog Ltd
+1231,GLOP,Gaslog Partners LP
+1232,GLP,Global Partners LP
+1233,GLP-A,Global Partners LP [Glp/Pa]
+1234,GLT,Glatfelter
+1235,GLW,Corning Inc
+1236,GM,General Motors Company
+1237,GME,Gamestop Corp
+1238,GMED,Globus Medical Inc
+1239,GMR-A,Global Med REIT Inc [Gmre/Pa]
+1240,GMRE,Global Medical REIT Inc
+1241,GMS,Gms Inc
+1242,GMTA,GATX Corp 5.625% Senior
+1243,GMZ,Goldman Sachs MLP Income Oppor
+1244,GNC,GNC Holdings Inc
+1245,GNE,Genie Energy Ltd Cl B
+1246,GNE-A,Genie Energy Ltd [Gne/Pa]
+1247,GNK,Genco Shipping & Trading Ltd
+1248,GNL,Global Net Lease Inc
+1249,GNL-A,Global Net Lease Inc [Gnl/Pa]
+1250,GNRC,Generac Holdings Inc
+1251,GNT,Gabelli Natural Resources Gold
+1252,GNT-A,Gamco Nat Res Gold & Income TR [Gnt/Pa]
+1253,GNW,Genworth Financial Inc
+1254,GOF,Claymore/Guggenheim Strategic Fund
+1255,GOL,Gol Linhas Aereas Inteligentes S.A.
+1256,GOLD,Barrick Gold Corp
+1257,GOLF,Acushnet Holdings Corp
+1258,GOOS,Canada Goose Holdings Inc Subordinate
+1259,GPC,Genuine Parts Company
+1260,GPI,Group 1 Automotive
+1261,GPJA,Georgia Power Company Series 2017A 5.00%
+1262,GPK,Graphic Packaging Holding Company
+1263,GPM,Guggenheim Enhanced Equity
+1264,GPMT,Granite Point Mortgage Trust Inc
+1265,GPN,Global Payments Inc
+1266,GPRK,Geopark Hldgs Lmtd
+1267,GPS,Gap Inc
+1268,GPX,Gp Strategies Corp
+1269,GRA,W.R. Grace & Company
+1270,GRA.U,Graf Indl Corp [Graf.U]
+1271,GRA.W,Graf Indl Corp [Graf/W]
+1272,GRAF,Graf Industrial Corp
+1273,GRAM,Grana Y Montero S.A.A.
+1274,GRC,Gorman-Rupp Company
+1275,GRP.U,Granite Real Estate Invt TR
+1276,GRUB,Grubhub Inc
+1277,GRX,The Gabelli Healthcare & Wellness Trust
+1278,GRX-A,Gabelli Healthcare & Wellness TR
+1279,GRX-B,Gabelli Healthcare & Wellness TR
+1280,GS,Goldman Sachs Group
+1281,GS-A,Goldman Sachs Group Inc [Gs/Pa]
+1282,GS-C,Goldman Sachs Group Inc [Gs/Pc]
+1283,GS-D,Goldman Sachs Group Inc [Gs/Pd]
+1284,GS-J,Goldman Sachs Group Inc [Gs/Pj]
+1285,GS-K,Goldman Sachs Group Inc [Gs/Pk]
+1286,GS-N,Goldman Sachs Group Inc [Gs/Pn]
+1287,GSA.U,GS Acquisition Hldgs Corp [Gsah.U]
+1288,GSA.W,GS Acquisition Hldgs Corp [Gsah/W]
+1289,GSAH,GS Acquisition Holdings Corp Cl A
+1290,GSBD,Goldman Sachs Bdc Inc
+1291,GSH,Guangshen Railway
+1292,GSK,Glaxosmithkline Plc
+1293,GSL,Global Ship Lease Inc
+1294,GSL-B,Global Ship Lease Inc [Gsl/Pb]
+1295,GSX,Gsx Techedu Inc ADR
+1296,GTES,Gates Industrial Corp Plc
+1297,GTN,Gray Television
+1298,GTN.A,Gray Television Inc Cl A
+1299,GTS,Triple-S Management Corp
+1300,GTT,Global Telcom & Technology Inc
+1301,GTX,Garrett Motion Inc
+1302,GTY,Getty Realty Corp
+1303,GUT,Gabelli Utility Trust
+1304,GUT-A,Gabelli Utility Trust [Gut/Pa]
+1305,GUT-C,Gabelli Utility Trust [Gut/Pc]
+1306,GVA,Granite Construction Inc
+1307,GWB,Great Western Bancorp Inc
+1308,GWR,Genesee & Wyoming
+1309,GWRE,Guidewire Software Inc
+1310,GWW,W.W. Grainger
+1311,GYB,Cabco Series 2004-101 Trust
+1312,GYC,Corporate Asset Backed Corp Cabco
+1313,H,Hyatt Hotels Corp
+1314,HAE,Haemonetics Corp
+1315,HAL,Halliburton Company
+1316,HASI,Hannon Armstrong Sustainable IN
+1317,HBB,Hamilton Beach Brands Holding Company Cl
+1318,HBI,Hanesbrands Inc
+1319,HBM,Hudbay Minerals Inc
+1320,HCA,Hca Holdings Inc
+1321,HCC,Warrior Met Coal Inc
+1322,HCFT,Hunt Companies Finance Trust Inc
+1323,HCHC,Hc2 Holdings Inc
+1324,HCI,Homeowners Choice
+1325,HCP,HCP Inc
+1326,HCR,Hi-Crush Inc
+1327,HCXY,Hercules Capital Inc 6.25% Notes Due
+1328,HCXZ,Hercules Capital Inc 5.25% Notes Due
+1329,HD,Home Depot
+1330,HDB,Hdfc Bank Ltd
+1331,HE,Hawaiian Electric Industries
+1332,HEI,Heico Corp
+1333,HEI.A,Heico Cp Cl A
+1334,HEP,Holly Energy Partners LP
+1335,HEQ,John Hancock Hedged Eqty & Inc
+1336,HES,Hess Corp
+1337,HESM,Hess Midstream Partners LP
+1338,HEXO,Hexo Corp
+1339,HFC,Hollyfrontier Corp
+1340,HFR-A,Highland Income Fund [Hfro/Pa]
+1341,HFRO,Highland Floating Rate Opportunities
+1342,HGH,The Hartford Financial Srvcs G
+1343,HGLB,Highland Global Allocation Fund
+1344,HGV,Hilton Grand Vacations Inc
+1345,HHC,Howard Hughes Corp
+1346,HHS,Harte-Hanks
+1347,HI,Hillenbrand Inc
+1348,HIE,Miller/Howard High Income Eqty
+1349,HIG,Hartford Financial Services Group
+1350,HIG-G,Hartford Financial Services Grp Inc
+1351,HII,Huntington Ingalls Industries
+1352,HIL,Hill International Inc
+1353,HIO,Western Asset High
+1354,HIW,Highwoods Properties
+1355,HIX,Western Asset High Income Fund II Inc
+1356,HJV,MS S.A.C. Saturns Ge Series 2002-14
+1357,HKIB,Amtd International Inc
+1358,HL,Hecla Mining Company
+1359,HL-B,Hecla Mining Co. [Hl/Pb]
+1360,HLF,Herbalife Ltd
+1361,HLI,Houlihan Lokey
+1362,HLT,Hilton Inc
+1363,HLX,Helix Energy Solutions Group
+1364,HMC,Honda Motor Company
+1365,HMI,Huami Corp ADR
+1366,HML-A,Hoegh Lng Partners LP [Hmlp/Pa]
+1367,HMLP,Hoegh Lng Partners LP
+1368,HMN,Horace Mann Educators Corp
+1369,HMY,Harmony Gold Mining Co. Ltd
+1370,HNGR,Hanger Inc
+1371,HNI,Hon Industries Inc
+1372,HNP,Huaneng Power Intl
+1373,HOG,Harley-Davidson Inc
+1374,HOME,At Home Group Inc
+1375,HON,Honeywell International Inc
+1376,HOS,Hornbeck Offshore Services
+1377,HOV,Hovnanian Enterprises Inc
+1378,HP,Helmerich & Payne
+1379,HPE,Hewlett Packard Enterprise Comp
+1380,HPF,John Hancock Pfd II
+1381,HPI,John Hancock Preferred
+1382,HPP,Hudson Pacific Properties
+1383,HPQ,Hewlett-Packard Company
+1384,HPR,Highpoint Resources Corp
+1385,HPS,John Hancock Preferred Income Fund III
+1386,HQH,Tekla Healthcare Investors
+1387,HQL,Tekla Life Sciences Investors
+1388,HR,Healthcare Realty Trust Inc
+1389,HRB,H&R; Block
+1390,HRC,Hill-Rom Holdings Inc
+1391,HRI,Herc Holdings Inc
+1392,HRL,Hormel Foods Corp
+1393,HRTG,Heritage Insurance Holdings
+1394,HSB-A,HSBC Hldgs Plc [Hsbc/Pa]
+1395,HSBC,HSBC Holdings Plc
+1396,HSC,Harsco Corp
+1397,HST,Host Marriott Financial Trust
+1398,HSY,Hershey Foods Corp
+1399,HT,Hersha Hospitality Trust
+1400,HT-C,Hersha Hospitality TR [Ht/Pc]
+1401,HT-D,Hersha Hospitality TR [Ht/Pd]
+1402,HT-E,Hersha Hospitality TR [Ht/Pe]
+1403,HTA,Healthcare Trust of America
+1404,HTD,John Hancock Tax Advantaged Dividend
+1405,HTFA,Horizon Technology Finance 6.25% Notes
+1406,HTGC,Hercules Technology Growth Capital
+1407,HTH,Hilltop Holdings Inc
+1408,HTY,John Hancock Tax-Advantaged Global
+1409,HTZ,Hertz Global Holdings Inc
+1410,HUBB,Hubbell Inc B
+1411,HUBS,Hubspot Inc
+1412,HUD,Hudson Ltd Cl A
+1413,HUM,Humana Inc
+1414,HUN,Huntsman Corp
+1415,HUYA,Huya Inc
+1416,HVT,Haverty Furniture Companies
+1417,HVT.A,Haverty Furn Cl A SC
+1418,HXL,Hexcel Corp
+1419,HY,Hyster-Yale Materials Handling
+1420,HYB,New America High
+1421,HYI,Western Asset High Yield Defined
+1422,HYT,Blackrock High Yield Fund Vi Inc
+1423,HZN,Horizon Global Corp Comm
+1424,HZO,Marinemax Inc
+1425,I,Intelsat S.A.
+1426,IAA,Iaa Inc
+1427,IAE,VOYA Asia Pacific High Dividend Equity
+1428,IAG,Iamgold Corp
+1429,IBA,Industrias Bachoco S.A. DE C.V.
+1430,IBM,International Business Machines
+1431,IBN,Icici Bank Ltd
+1432,IBP,Installed Building Products
+1433,ICD,Independence Contract Drilling Inc
+1434,ICE,Intercontinental Exchange
+1435,ICL,Israel Chemicals Ltd
+1436,IDA,Idacorp Inc
+1437,IDE,VOYA Infrastructure Industrial
+1438,IDT,IDT Corp
+1439,IEX,Idex Corp
+1440,IFF,International Flavors & Fragrances
+1441,IFFT,International Flavors & Fragrances Inc
+1442,IFN,India Fund
+1443,IFS,Intercorp Financial Services Inc
+1444,IGA,VOYA Global Advantage and Premium
+1445,IGD,VOYA Global Equity Dividend and Premium
+1446,IGI,Western Asset Investment Grade Defined
+1447,IGR,VOYA Clarion Global Real Estate
+1448,IGT,International Game Technology
+1449,IHC,Independence Holding Company
+1450,IHD,VOYA Emerging Markets High Dividend
+1451,IHG,Intercontinental Hotels Group
+1452,IHIT,Invesco High Income 2023 Target Term
+1453,IHTA,Invesco High Income 2024 Target Term
+1454,IID,VOYA International High Dividend Equity
+1455,IIF,Morgan Stanley India Investment Fund Inc
+1456,IIM,Invesco Insured Muni Income Trust
+1457,IIP-A,Innovative Indl Pptys Inc [Iipr/Pa]
+1458,IIPR,Innovative Industrial Properties
+1459,IMAX,Imax Corp
+1460,INB,Cohen & Steers Global Income Builder
+1461,INF,Brookfield Global Listed Infra
+1462,INFO,IHS Markit Ltd
+1463,INFY,Infosys Ltd
+1464,ING,ING Groep N.V. ADR
+1465,INGR,Ingredion Inc
+1466,INN,Summit Hotel Properties
+1467,INN-D,Summit Hotel Pptys Inc [Inn/Pd]
+1468,INN-E,Summit Hotel Pptys Inc [Inn/Pe]
+1469,INS-A,International Seaways Inc [Insw/Pa]
+1470,INSI,Insight Select Income Fund
+1471,INSP,Inspire Medical Systems Inc
+1472,INST,Instructure Inc
+1473,INSW,International Seaways Inc
+1474,INT,World Fuel Services Corp
+1475,INVH,Invitation Homes Inc
+1476,INXN,Interxion Holding N.V.
+1477,IO,ION Geophysical Corp
+1478,IP,International Paper Company
+1479,IPG,Interpublic Group of Companies
+1480,IPHI,Inphi Corp
+1481,IPI,Intrepid Potash Inc
+1482,IPO.U,Social Cap Hedosophia Hldgs Co. [Ipoa.U]
+1483,IPO.W,Social Cap Hedosophia Hldgs Co. [Ipoa/W]
+1484,IPOA,Social Capital Hedosophia Holdings Corp
+1485,IQI,Invesco Quality Muni Income Trust
+1486,IQV,Iqvia Holdings Inc
+1487,IR,Ingersoll-Rand Plc [Ireland]
+1488,IRE-C,Investors Real Estate TR [Iret/Pc]
+1489,IRET,Investors Real Estate Trust
+1490,IRL,Irish Investment Fund
+1491,IRM,Iron Mountain Inc
+1492,IRR,VOYA Risk Managed Natural Resources Fund
+1493,IRS,Irsa Inversiones Y Representaciones S.A.
+1494,IRT,Independence Realty Trust Inc
+1495,ISD,Prudential Short Duration High
+1496,ISG,VOYA Group N.V.
+1497,IT,Gartner Inc
+1498,ITCB,Itau Corpbanca
+1499,ITGR,Integer Holdings Corp
+1500,ITT,ITT Inc
+1501,ITUB,Itau Unibanco Banco Holding S.A.
+1502,ITW,Illinois Tool Works Inc
+1503,IVC,Invacare Corp
+1504,IVH,Ivy High Income Opportunities
+1505,IVR,Invesco Mortgage Capital Inc
+1506,IVR-A,Invesco Mortgage Capital Inc [Ivr/Pa]
+1507,IVR-B,Invesco Mortgage Capital Inc [Ivr/Pb]
+1508,IVR-C,Invesco Mortgage Capital Inc [Ivr/Pc]
+1509,IVZ,Invesco Plc
+1510,IX,Orix Corp ADR
+1511,JAG,Jagged Peak Energy Inc
+1512,JAX,J. Alexander's Holdings Inc C
+1513,JBGS,Jbg Smith Properties
+1514,JBK,Lehman Abs Corp
+1515,JBL,Jabil Circuit
+1516,JBN,Select Asset Inc
+1517,JBR,Select Asset Inc
+1518,JBT,John Bean Technologies Corp
+1519,JCA-B,Jernigan Cap Inc [Jcap/Pb]
+1520,JCAP,Jernigan Capital Inc
+1521,JCE,Nuveen Core Equity Alpha Fund
+1522,JCI,Johnson Controls Intl
+1523,JCO,Nuveen Credit Opportunities 2022 Target
+1524,JCP,J.C. Penney Company Inc
+1525,JDD,Nuveen Diversified Dividend and
+1526,JE,Just Energy Group Inc
+1527,JE-A,Just Energy Group Inc [Je/Pa]
+1528,JEC,Jacobs Engineering Group Inc
+1529,JEF,Jefferies Financial Group Inc
+1530,JELD,Jeld-Wen Holding Inc
+1531,JEMD,Nuveen Emerging Markets Debt 2022 Target
+1532,JEQ,Japan Equity Fund
+1533,JFR,Nuveen Floating Rate
+1534,JGH,Nuveen Global High Income Fund
+1535,JHAA,Nuveen High Income 2023 Target Term Fund
+1536,JHB,Nuveen High Income November 2021 Target
+1537,JHD,Nuveen High Income December 2019 Target
+1538,JHG,Janus Henderson Group Plc
+1539,JHI,John Hancock Investors Trust
+1540,JHS,John Hancock Income Securities Trust
+1541,JHX,James Hardie Industries Se
+1542,JHY,Nuveen High Income 2020 Target
+1543,JILL,J. Jill Inc
+1544,JKS,Jinkosolar Holding Company Ltd
+1545,JLL,Jones Lang Lasalle Inc
+1546,JLS,Nuveen Mortgage Opportunity Term Fund
+1547,JMEI,Jumei International Holding Ltd
+1548,JMF,Nuveen Energy MLP Total Return Fund
+1549,JMIA,Jumia Technologies Ag ADR
+1550,JMLP,Nuveen All Cap Energy MLP Oppo
+1551,JMM,Nuveen Multi-Market Income Fund Inc
+1552,JMP,JMP Group Inc
+1553,JMPB,JMP Group Inc
+1554,JMPD,JMP Group Llc 7.25% Senior Notes Due
+1555,JMPE,JMP Group Llc 6.875% Senior Notes Due
+1556,JMT,Nuven Mortgage Opportunity Term Fund 2
+1557,JNJ,Johnson & Johnson
+1558,JNPR,Juniper Networks
+1559,JOE,St. Joe Company
+1560,JOF,Japan Smaller Capitalization Fund Inc
+1561,JP,Jupai Holdings Ltd
+1562,JPC,Nuveen Preferred and Convertible
+1563,JPI,Nuveen Preferred and Income Term Fund
+1564,JPM,JP Morgan Chase & Company
+1565,JPM-A,Jpmorgan Chase & Co. [Jpm/Pa]
+1566,JPM-C,Jpmorgan Chase & Co. [Jpm/Pc]
+1567,JPM-D,Jpmorgan Chase & Co. [Jpm/Pd]
+1568,JPM-F,Jpmorgan Chase & Co. [Jpm/Pf]
+1569,JPM-G,Jpmorgan Chase & Co. [Jpm/Pg]
+1570,JPM-H,Jpmorgan Chase & Co. [Jpm/Ph]
+1571,JPS,Nuveen Quality Preferred 2
+1572,JPT,Nuveen Preferred and Income 2022 Term
+1573,JQC,Nuveen Preferred and Convertible 2
+1574,JRI,Nuveen Real Asset Income and Gr
+1575,JRO,Nuveen Floating Rate Income Opportuntiy
+1576,JRS,Nuveen Real Estate Fund
+1577,JSD,Nuveen Short Duration Credit O
+1578,JT,Jianpu Technology Inc
+1579,JTA,Nuveen Tax-Advantaged Total Return
+1580,JTD,Nuveen Tax-Advantaged Dividend Growth
+1581,JW.A,John Wiley Sons Cl A
+1582,JW.B,John Wiley Sons Cl B
+1583,JWN,Nordstrom
+1584,K,Kellogg Company
+1585,KAI,Kadant Inc
+1586,KAMN,Kaman Corp
+1587,KAR,Kar Auction Services Inc
+1588,KB,KB Financial Group Inc
+1589,KBH,KB Home
+1590,KBR,KBR Inc
+1591,KDMN,Kadmon Holdings Llc
+1592,KDP,Keurig Dr Pepper Inc
+1593,KEG,Key Energy Services Inc
+1594,KEM,Kemet Corp
+1595,KEN,Kenon Holdings Ltd
+1596,KEP,Korea Electric Power Corp
+1597,KEX,Kirby Corp
+1598,KEY,Keycorp
+1599,KEY-I,Keycorp [Key/Pi]
+1600,KEY-J,Keycorp [Key/Pj]
+1601,KEY-K,Keycorp [Key/Pk]
+1602,KEYS,Keysight Technologies Inc Comm
+1603,KF,Korea Fund
+1604,KFS,Kingsway Financial Services
+1605,KFY,Korn/Ferry International
+1606,KGC,Kinross Gold Corp
+1607,KIM,Kimco Realty Corp
+1608,KIM-J,Kimco Rlty Corp [Kim/Pj]
+1609,KIM-L,Kimco Rlty Corp [Kim/Pl]
+1610,KIM-M,Kimco Realty Corp Dep Shs Repstg 1/1000
+1611,KIO,KKR Income Opportunities Fund
+1612,KKR,KKR & Co. LP
+1613,KKR-A,KKR & Co. Inc [Kkr/Pa]
+1614,KKR-B,KKR & Co. Inc [Kkr/Pb]
+1615,KL,Kirkland Lake Gold Ltd
+1616,KMB,Kimberly-Clark Corp
+1617,KMF,Kayne Anderson Midstream Energy Fund
+1618,KMI,Kinder Morgan
+1619,KMPR,Kemper Corp
+1620,KMT,Kennametal Inc
+1621,KMX,Carmax Inc
+1622,KN,Knowles Corp
+1623,KNL,Knoll Inc
+1624,KNOP,Knot Offshore Partners LP
+1625,KNX,Knight-Swift Transporation Inc
+1626,KO,Coca-Cola Company
+1627,KODK,Eastman Kodak
+1628,KOF,Coca Cola Femsa S.A.B. DE C.V.
+1629,KOP,Koppers Holdings Inc
+1630,KOS,Kosmos Energy Ltd
+1631,KR,Kroger Company
+1632,KRA,Kraton Performance Polymers Inc
+1633,KRC,Kilroy Realty Corp
+1634,KREF,KKR Real Estate Finance Trust Inc
+1635,KRG,Kite Realty Group Trust
+1636,KRO,Kronos Worldwide Inc
+1637,KRP,Kimbell Royalty Partners
+1638,KSM,Scudder Strategic Municiple Income Trust
+1639,KSS,Kohl's Corp
+1640,KSU,Kansas City Southern
+1641,KSU.P,Kansas City Southern [Ksu/P]
+1642,KT,Korea Telecom Corp
+1643,KTB,Kontoor Brands Inc [Ktb/I]
+1644,KTF,Scudder Municiple Income Trust
+1645,KTH,Lehman Abs Corp
+1646,KTN,Lehman Abs Corp
+1647,KTP,Lehman Abs Corp
+1648,KW,Kennedy-Wilson Holdings Inc
+1649,KWR,Quaker Chemical Corp
+1650,KYN,Kayne Anderson MLP Investment Company
+1651,KYN-F,Kayne Anderson MLP Midstream Invest
+1652,L,Loews Corp
+1653,LAC,Lithium Americas Corp
+1654,LAD,Lithia Motors
+1655,LADR,Ladder Capital Corp
+1656,LAIX,Laix Inc ADR
+1657,LAZ,Lazard Ltd
+1658,LB,L Brands Inc
+1659,LBRT,Liberty Oilfield Services Inc
+1660,LC,Lendingclub Corp
+1661,LCI,Lannett Co. Inc
+1662,LCII,Lci Industries
+1663,LDL,Lydall Inc
+1664,LDOS,Leidos Holdings Inc
+1665,LDP,Cohen & Steers Ltd Duration Prfd Income
+1666,LEA,Lear Corp
+1667,LEAF,Leaf Group Ltd
+1668,LEE,Lee Enterprises Inc
+1669,LEG,Leggett & Platt Inc
+1670,LEJU,Leju Holdings Ltd
+1671,LEN,Lennar Corp
+1672,LEN.B,Lennar Corp Cl B
+1673,LEO,Dreyfus Strategic Municipals
+1674,LEVI,Levi Strauss & Co. Cl A
+1675,LFC,China Life Insurance Company Ltd
+1676,LGC,Legacy Acquisition Corp
+1677,LGC.U,Legacy Acquisition Corp [Lgc/U]
+1678,LGC.W,Legacy Acquisition Corp [Lgc/W]
+1679,LGF.A,Lions Gate Entertainment Corp Cl A
+1680,LGF.B,Lions Gate Entertainment Corp Cl B
+1681,LGI,Lazard Global Total Return and
+1682,LH,Laboratory Corp of America Holdings
+1683,LHC,Leo Holdings Corp Cl A
+1684,LHC.U,Leo Holdings Corp
+1685,LHC.W,Leo Holdings Corp [Lhc/W]
+1686,LHX,L3Harris Technologies Inc
+1687,LII,Lennox International
+1688,LIN,Linde Plc
+1689,LINX,Linx S.A. ADR
+1690,LITB,Lightinthebox Holding Co. Ltd
+1691,LKSD,Lsc Communications Inc
+1692,LL,Lumber Liquidators Holdings Inc
+1693,LLY,Eli Lilly and Company
+1694,LM,Legg Mason Inc
+1695,LMHA,Legg Mason Inc
+1696,LMHB,Legg Mason Inc
+1697,LMT,Lockheed Martin Corp
+1698,LN,Line Corp
+1699,LNC,Lincoln National Corp
+1700,LND,Brasilagro ADR
+1701,LNN,Lindsay Corp
+1702,LOMA,Loma Negra Comp Indu Argentina Sociedad
+1703,LOR,Lazard World Dividend &
+1704,LOW,Lowe's Companies
+1705,LPG,Dorian Lpg Ltd
+1706,LPI,Laredo Petroleum Holdings Inc
+1707,LPL,Lg Display Co. Ltd
+1708,LPT,Liberty Property Trust
+1709,LPX,Louisiana-Pacific Corp
+1710,LRN,K12 Inc
+1711,LSI,Life Storage
+1712,LTC,Ltc Properties
+1713,LTHM,Livent Corp
+1714,LTM,Latam Airlines Group S.A.
+1715,LUB,Luby's Inc
+1716,LUV,Southwest Airlines Company
+1717,LVS,Las Vegas Sands
+1718,LW,Lamb Weston Holdings Inc
+1719,LXFR,Luxfer Holdings Plc
+1720,LXP,Lexington Realty Trust
+1721,LXP-C,Lexington Realty Trust [Lxp/Pc]
+1722,LXU,Lsb Industries Inc
+1723,LYB,Lyondellbasell Industries NV
+1724,LYG,Lloyds Banking Group Plc
+1725,LYV,Live Nation Entertainment
+1726,LZB,La-Z-Boy Inc
+1727,M,Macy's Inc
+1728,MA,Mastercard Inc
+1729,MAA,Mid-America Apartment Communities
+1730,MAA-I,Mid Amer Apt Cmntys Inc [Maa/Pi]
+1731,MAC,Macerich Company
+1732,MAIN,Main Street Capital Corp
+1733,MAN,Manpower Inc
+1734,MANU,Manchester United Ltd
+1735,MAS,Masco Corp
+1736,MATX,Matson Inc
+1737,MAV,Pioneer Muni High Income Advantage Trust
+1738,MAXR,Maxar Technologies Ltd
+1739,MBI,MBIA Inc
+1740,MBT,Mobile Telesystems
+1741,MC,Moelis
+1742,MCA,Blackrock Muniyield California Insured
+1743,MCB,Metropolitan Bank Holding Corp
+1744,MCC,Medley Capital Corp
+1745,MCD,McDonald's Corp
+1746,MCI,Massmutual Corporate Investors
+1747,MCK,Mckesson Corp
+1748,MCN,Madison/Claymore Covered Call & Equity
+1749,MCO,Moody's Corp
+1750,MCR,MFS Charter Income Trust
+1751,MCRN,Milacron Holdings Corp
+1752,MCS,Marcus Corp
+1753,MCV,Medley Capital Corp
+1754,MCX,Medley Capital Corp
+1755,MCY,Mercury General Corp
+1756,MD,Mednax Inc
+1757,MDC,M.D.C. Holdings
+1758,MDLA,Medallia Inc
+1759,MDLQ,Medley Llc 7.25% Notes Due 2024
+1760,MDLX,Medley Llc
+1761,MDLY,Medley Management Inc
+1762,MDP,Meredith Corp
+1763,MDR,McDermott International
+1764,MDT,Medtronic Inc
+1765,MDU,Mdu Res Group Inc
+1766,MEC,Mayville Engineering Company Inc
+1767,MED,Medifast Inc
+1768,MEI,Methode Electronics
+1769,MEN,Blackrock Munienhanced Fund
+1770,MER-K,Bank of America Corp [Mer/Pk]
+1771,MET,Metlife Inc
+1772,MET-A,Metlife Inc [Met/Pa]
+1773,MET-E,Metlife Inc [Met/Pe]
+1774,MFA,MFA Financial Inc
+1775,MFA-B,MFA Finl Inc [Mfa/Pb]
+1776,MFA.U,Megalith Finl Acquisition Corp [Mfac.U]
+1777,MFA.W,Megalith Finl Acquisition Corp [Mfac/W]
+1778,MFAC,Megalith Financial Acquisition Corp Cl A
+1779,MFC,Manulife Financial Corp
+1780,MFD,Macquarie/First Trust Global
+1781,MFG,Mizuho Financial Group
+1782,MFGP,Micro Focus Intl Plc
+1783,MFL,Blackrock Muniholdings Investment
+1784,MFM,MFS Muni Income Trust
+1785,MFO,MFA Financial Inc
+1786,MFT,Blackrock Muniyield Investment
+1787,MFV,MFS Special Value Trust
+1788,MG,Mistras Group Inc
+1789,MGA,Magna International
+1790,MGF,MFS Government Markets Income Trust
+1791,MGM,MGM Resorts International
+1792,MGP,MGM Growth Properties Llc
+1793,MGR,Affiliated Managers Group Inc
+1794,MGU,Macquarie Global Infrastructure Total
+1795,MGY,Magnolia Oil & Gas Corp
+1796,MH-A,Maiden Holdings Ltd [Mh/Pa]
+1797,MH-C,Maiden Holdings Ltd [Mh/Pc]
+1798,MH-D,Maiden Holdings Ltd [Mh/Pd]
+1799,MHD,Blackrock Muniholdings Fund
+1800,MHE,Massachusetts Health and Education
+1801,MHF,Western Asset Muni High
+1802,MHI,Pioneer Muni High Income Trust
+1803,MHK,Mohawk Industries
+1804,MHLA,Maiden Holdings Ltd 6.625% No
+1805,MHN,Blackrock Muniholdings New York Quality
+1806,MHNC,Maiden Holdings North America
+1807,MHO,M/I Homes
+1808,MIC,Macquarie Infrastructure Company Trust
+1809,MIE,Cohen & Steers MLP Income and
+1810,MIN,MFS Intermediate Income Trust
+1811,MIT-A,Ag Mtg Invt TR Inc [Mitt/Pa]
+1812,MIT-B,Ag Mtg Invt TR Inc [Mitt/Pb]
+1813,MIT-C,Ag Mtg Invt TR Inc [Mitt/Pc]
+1814,MITT,Ag Mortgage Investment Trust
+1815,MIXT,Mix Telematics Ltd
+1816,MIY,Blackrock Muniyield Michigan Quality
+1817,MKC,Mccormick & Company Inc
+1818,MKC.V,Mccormick & Co. Inc
+1819,MKL,Markel Corp
+1820,MLI,Mueller Industries
+1821,MLM,Martin Marietta Materials
+1822,MLP,Maui Land & Pineapple Company
+1823,MLR,Miller Industries
+1824,MMC,Marsh & Mclennan Companies
+1825,MMD,Mainstay Defined Muni Opp Fund
+1826,MMI,Marcus & Millichap
+1827,MMM,MMP
+1828,Magellan Midstream Partners LP,MMS
+1829,Maximus Inc,MMT
+1830,MFS Multimarket Income Trust,MMU
+1831,Western Asset Managed Municipals Fund,MN
+1832,Manning & Napier Inc,MNE
+1833,Blackrock Muni New York Intermediate,MNK
+1834,Mallinckrodt Plc,MNP
+1835,Western Asset Muni Partners Fund,MNR
+1836,Monmouth Real Estate Investment Corp,MNR-C
+1837,Monmouth Real Estate Invt Corp [Mnr/Pc],MNRL
+1838,Brigham Minerals Inc,MO
+1839,Altria Group,MOD
+1840,Modine Manufacturing Company,MODN
+1841,Model N Inc,MOG.A
+1842,Moog Inc Cl A,MOG.B
+1843,Moog Inc Cl B,MOGU
+1844,Mogu Inc ADR,MOH
+1845,Molina Healthcare Inc,MOS
+1846,Mosaic Company,MOS.U
+1847,Mosaic Acquisition Corp [Mosc.U],MOS.W
+1848,Mosaic Acquisition Corp [Mosc/W],MOSC
+1849,Mosaic Acquisition Corp,MOV
+1850,Movado Group Inc,MPA
+1851,Blackrock Muniyield Pennsylvania Quality,MPC
+1852,Marathon Petroleum Corp,MPLX
+1853,Mplx LP,MPV
+1854,Massmutual Participation Investors,MPW
+1855,Medical Properties Trust,MPX
+1856,Marine Products Corp,MQT
+1857,Blackrock Muniyield Quality Fund II,MQY
+1858,Blackrock Muniyield Quality Fund,MR
+1859,Montage Resources Corp,MRC
+1860,Mrc Global Inc,MRK
+1861,Merck & Company,MRO
+1862,Marathon Oil Corp,MS
+1863,Morgan Stanley,MS-A
+1864,Morgan Stanley [Ms/Pa],MS-E
+1865,Morgan Stanley [Ms/Pe],MS-F
+1866,Morgan Stanley [Ms/Pf],MS-G
+1867,Morgan Stanley [Ms/Pg],MS-I
+1868,Morgan Stanley [Ms/Pi],MS-K
+1869,Morgan Stanley [Ms/Pk],MSA
+1870,Msa Safety Inc,MSB
+1871,Mesabi Trust,MSC
+1872,Studio City Intl Holdings Ltd ADR,MSCI
+1873,MSCI Inc,MSD
+1874,Morgan Stanley Emerging Markets Debt,MSG
+1875,The Madison Square Garden Comp,MSGN
+1876,Msg Networks Inc,MSI
+1877,Motorola Solutions,MSM
+1878,Msc Industrial Direct Company,MT
+1879,Arcelormittal,MTB
+1880,M&T; Bank Corp,MTD
+1881,Mettler-Toledo International,MTDR
+1882,Matador Resources Company,MTG
+1883,Mgic Investment Corp,MTH
+1884,Meritage Corp,MTL
+1885,Mechel Oao,MTL.P
+1886,Mechel Pao [Mtl/P],MTN
+1887,Vail Resorts,MTOR
+1888,Meritor Inc,MTR
+1889,Mesa Royalty Trust,MTRN
+1890,Materion Corp,MTT
+1891,Western Asset Muni Defined Opportunity,MTW
+1892,Manitowoc Company,MTX
+1893,Minerals Technologies Inc,MTZ
+1894,Mastec Inc,MUA
+1895,Blackrock Muniassets Fund,MUC
+1896,Blackrock Muniholdings California,MUE
+1897,Blackrock Muniholdings Quality Fund II,MUFG
+1898,Mitsubishi Ufj Financial Group Inc,MUH
+1899,Blackrock Muniholdings Fund II,MUI
+1900,Blackrock Muni Intermediate Duration,MUJ
+1901,Blackrock Muniholdings New Jersey,MUR
+1902,Murphy Oil Corp,MUS
+1903,Blackrock Muniholdings Quality Fund,MUSA
+1904,Murphy USA Inc,MUX
+1905,Mcewen Mining Inc,MVC
+1906,MVC Capital,MVCD
+1907,MVC Capital Inc 6.25% Senior Notes Due,MVF
+1908,Munivest Fund,MVO
+1909,Mv Oil Trust,MVT
+1910,Blackrock Munivest Fund II,MWA
+1911,Mueller Water Products,MX
+1912,Magnachip Semiconductor Corp,MXE
+1913,Mexico Equity and,MXF
+1914,Mexico Fund,MXL
+1915,Maxlinear Inc,MYC
+1916,Blackrock Muniyield California Fund,MYD
+1917,Blackrock Muniyield Fund,MYE
+1918,Myers Industries,MYF
+1919,Blackrock Muniyield Investment Fund,MYI
+1920,Blackrock Muniyield Quality Fund III,MYJ
+1921,Blackrock Muniyield New Jersey Fund,MYN
+1922,Blackrock Muniyield New York Quality,MYOV
+1923,Myovant Sciences Ltd,MZA
+1924,Muniyield Arizona Fund,NAC
+1925,Nuveen California Divadv Fund,NAD
+1926,Nuveen Divadv Fund,NAN
+1927,Nuveen New York Divadv Fund,NAT
+1928,Nordic American Tanker Shipping Ltd,NAV
+1929,Navistar International Corp,NAV-D
+1930,Navistar International Corp [Nav/Pd],NAZ
+1931,Nuveen Arizona Premium Fund,NBB
+1932,Nuveen Build America Bond Fund,NBHC
+1933,National Bank Holdings Corp,NBL
+1934,Noble Energy Inc,NBLX
+1935,Noble Midstream Partners LP,NBR
+1936,Nabors Industries,NBR-A
+1937,Nabors Industries Inc [Nbr/Pa],NC
+1938,Nacco Industries,NCA
+1939,Nuveen California Muni Value Fund,NCB
+1940,Nuveen California Muni Value Fund 2,NCI
+1941,Navigant Consulting,NCLH
+1942,Norwegian Cruise Ord,NCR
+1943,NCR Corp,NCV
+1944,Agic Convertible &,NCV-A
+1945,Allianzgi Conv Income Fd [Ncv/Pa],NCZ
+1946,Agic Convertible & II,NCZ-A
+1947,Allianzgi Conv Income Fd II [Ncz/Pa],NDP
+1948,Tortoise Energy Independence F,NE
+1949,Noble Corp,NEA
+1950,Nuveen Insured Tax-Free Advantage Fund,NEE
+1951,Nextera Energy,NEE-I
+1952,Nextera Energy Capital Hldgs Inc,NEE-J
+1953,Nextera Energy Capital Hldgs Inc,NEE-K
+1954,Nextera Energy Capital Hldgs Inc,NEE-N
+1955,Nextera Energy Capital Hldgs Inc,NEE-O
+1956,Nextera Energy Inc 4.872% Corporate,NEM
+1957,Newmont Mining Corp,NEP
+1958,Nextera Energy Partners LP,NET
+1959,Cloudflare Inc Cl A,NEU
+1960,Newmarket Corp,NEV
+1961,Nuveen Enhanced Muni Value Fund,NEW
+1962,Puxin Ltd,NEWM
+1963,New Media Investment Group Inc,NEWR
+1964,New Relic Inc,NEXA
+1965,Nexa Resources S.A.,NFC
+1966,New Frontier Corp,NFC.U
+1967,New Frontier Corp,NFC.W
+1968,New Frontier Corp [Nfc/W],NFG
+1969,National Fuel Gas Company,NFJ
+1970,Nfj Dividend Interest & Premium Strategy,NGG
+1971,National Grid Transco Plc,NGL
+1972,Ngl Energy Partners LP,NGL-A
+1973,Targa Resources Partners LP [Ngls/Pa],NGL-B
+1974,Ngl Energy Partners LP [Ngl/Pb],NGL-C
+1975,Ngl Energy Partners LP Perp Pfd Unit Cl,NGS
+1976,Natural Gas Services Group,NGVC
+1977,Natural Grocers By Vitamin Cottage Inc,NGVT
+1978,Ingevity Corp,NHA
+1979,Nuveen Municipal,NHF
+1980,Nexpoint Credit Strategies Fund,NHI
+1981,National Health Investors,NI
+1982,NiSource Inc,NI-B
+1983,NiSource Inc [Ni/Pb],NID
+1984,Nuveen Intermediate Duration M,NIE
+1985,Agic Equity & Convertible,NIM
+1986,Nuveen Maturities Fund,NINE
+1987,Nine Energy Service Inc,NIO
+1988,Nio Inc,NIQ
+1989,Nuveen Intermediate Duration Q,NJR
+1990,Newjersey Resources Corp,NJV
+1991,Nuveen New Jersey Muni Value Fund,NKE
+1992,Nike Inc,NKG
+1993,Nuveen Georgia Divadv Fund 2,NKX
+1994,Nuveen Insured California Tax-Free,NL
+1995,NL Industries,NLS
+1996,Nautilus Group,NLSN
+1997,Nielsen Holdings Plc,NLY
+1998,Annaly Capital Management Inc,NLY-D
+1999,Annaly Cap Mgmt Inc [Nly/Pd],NLY-F
+2000,Annaly Cap Mgmt Inc [Nly/Pf],NLY-G
+2001,Annaly Cap Mgmt Inc [Nly/Pg],NLY-I
+2002,Annaly Cap Mgmt Inc [Nly/Pi],NM
+2003,Navios Maritime Holdings Inc,NM-G
+2004,Navios Maritime Hldgs Inc [Nm/Pg],NM-H
+2005,Navios Maritime Hldgs Inc [Nm/Ph],NMCO
+2006,Nuveen Municipal Credit Opportunities,NMFC
+2007,New Mountain Finance Corp,NMFX
+2008,New Mountain Finance Corp,NMI
+2009,Nuveen Muni,NMK-B
+2010,Niagara Mohawk Power Corp [Nmk/Pb],NMK-C
+2011,Niagara Mohawk Power Corp [Nmk/Pc],NMM
+2012,Navios Maritime Partners LP,NMR
+2013,Nomura Holdings Inc ADR,NMS
+2014,Nuveen Minnesota Municipal Inco,NMT
+2015,Nuveen Massachusetts Premium Fund,NMY
+2016,Nuveen Maryland Premium Fund,NMZ
+2017,Nuveen Muni High Income Opportunity,NNA
+2018,Navios Maritime Acquisition Corp,NNC
+2019,Nuveen North Carolina Premium Fund,NNI
+2020,Nelnet Inc,NNN
+2021,National Retail Properties,NNN-E
+2022,National Retail Pptys Inc [NNn/Pe],NNN-F
+2023,National Retail Pptys Inc [NNn/Pf],NNY
+2024,Nuveen New York Muni Value Fund,NOA
+2025,North American Energy Partners,NOAH
+2026,Noah Holdings Ltd,NOC
+2027,Northrop Grumman Corp,NOK
+2028,Nokia Corp,NOM
+2029,Nuveen Missouri Premium Fund,NOMD
+2030,Nomad Foods Ltd,NOV
+2031,National-Oilwell,NOVA
+2032,Sunnova Energy International Inc,NOW
+2033,Servicenow Inc,NP
+2034,Neenah Paper,NPK
+2035,National Presto Industries,NPN
+2036,Nuveen Pennsylvania Muni Value Fund,NPO
+2037,Enpro Industries,NPTN
+2038,Neophotonics Corp,NPV
+2039,Nuveen Virginia Premium Fund,NQP
+2040,Nuveen Pennsylvania Investment,NR
+2041,Newpark Resources,NRG
+2042,NRG Energy,NRGX
+2043,Neurologix Inc,NRK
+2044,Nuveen Insured New York Tax-Free,NRP
+2045,Natural Resource Partners LP,NRT
+2046,North European Oil Royality Trust,NRUC
+2047,National Rural Utilities Coop Finance,NRZ
+2048,New Residential Investment Corp,NRZ-A
+2049,New Residential Invt Corp [Nrz/Pa],NRZ-B
+2050,New Residential Invt Corp [Nrz/Pb],NS
+2051,Nustar Energy LP,NS-A
+2052,Nustar Energy LP [Ns/Pa],NS-B
+2053,Nustar Energy LP [Ns/Pb],NS-C
+2054,Nustar Energy LP [Ns/Pc],NSA
+2055,National Storage Affiliates Tru,NSA-A
+2056,National Storage Affiliates TR [Nsa/Pa],NSC
+2057,Norfolk Southern Corp,NSC.W
+2058,Nesco Hldgs Inc [Nsco/W],NSCO
+2059,Nesco Holdings Inc,NSL
+2060,Nuveen Senior,NSP
+2061,Insperity Inc,NSS
+2062,Nustar Logistics LP,NTB
+2063,Bank of Butterfield Ltd,NTC
+2064,Nuveen Connecticut Premium Fund,NTEST.I
+2065,NTEST.J,NTEST.K
+2066,NTG,Tortoise MLP Fund
+2067,NTP,Nam Tai Electronics
+2068,NTR,Nutrien Ltd
+2069,NTX,Nuveen Texas Quality
+2070,NTZ,Natuzzi S.P.A.
+2071,NUE,Nucor Corp
+2072,NUM,Nuveen Michigan Quality
+2073,NUO,Nuveen Ohio Quality
+2074,NUS,Nu Skin Enterprises
+2075,NUV,Nuveen Muni Value Fund
+2076,NUW,Nuveen Muni Value Fund
+2077,NVG,Nuveen Insured Divadv Fund
+2078,NVGS,Navigator Holdings
+2079,NVO,Novo Nordisk A/S
+2080,NVR,NVR Inc
+2081,NVRO,Nevro Corp
+2082,NVS,Novartis Ag
+2083,NVST,Envista Holdings Corp
+2084,NVT,Nvent Electric Plc
+2085,NVTA,Invitae Corp
+2086,NWE,Northwestern Corp
+2087,NWHM,New Home Co. Llc
+2088,NWN,Northwest Natural Gas Company
+2089,NX,Quanex Building Products Corp
+2090,NXC,Nuveen California Tax-Free Income
+2091,NXJ,Nuveen New Jersey Divadv Fund
+2092,NXN,Nuveen Insured New York Tax-Free
+2093,NXP,Nuveen Tax Free Income Portfolio
+2094,NXQ,Nuveen Tax Free Income Portfolio II
+2095,NXR,Nuveen Tax Free Income Portfolio III
+2096,NXRT,Nexpoint Residential Trust Inc
+2097,NYC-A,New York Community Bancorp Inc [Nycb/Pa]
+2098,NYC-U,New York Cmnty Cap TR V [Nycb/Pu]
+2099,NYCB,New York Community Bancorp
+2100,NYT,New York Times Company
+2101,NYV,Nuveen New York Muni Value Fund 2
+2102,NZF,Nuveen Divadv Fund 3
+2103,O,Realty Income Corp
+2104,OAC,Oaktree Acquisition Corp Cl A
+2105,OAC.U,Oaktree Acquisition Corp
+2106,OAC.W,Oaktree Acquisition Corp WT
+2107,OAK-A,Oaktree Cap Group Llc [Oak/Pa]
+2108,OAK-B,Oaktree Cap Group Llc [Oak/Pb]
+2109,OAS,Oasis Petroleum Inc
+2110,OBE,Obsidian Energy Ltd
+2111,OC,Owens Corning Inc
+2112,OCN,Ocwen Financial Corp
+2113,ODC,Oil-Dri Corp of America
+2114,OEC,Orion Engineered Carbons S.A R
+2115,OFC,Corporate Office Properties
+2116,OFG,Oriental Financial Group
+2117,OFG-A,Ofg Bancorp [Ofg/Pa]
+2118,OFG-B,Ofg Bancorp [Ofg/Pb]
+2119,OFG-D,Ofg Bancorp [Ofg/Pd]
+2120,OGE,Oge Energy Corp
+2121,OGS,One Gas Inc
+2122,OHI,Omega Healthcare Investors
+2123,OI,Owens-Illinois
+2124,OIA,Invesco Muni Income Trust
+2125,OIB.C,Oi S.A. [Oibr.C]
+2126,OII,Oceaneering International
+2127,OIS,Oil States International
+2128,OKE,Oneok Inc
+2129,OLN,Olin Corp
+2130,OLP,One Liberty Properties
+2131,OMC,Omnicom Group Inc
+2132,OMF,Onemain Holdings Inc
+2133,OMI,Owens & Minor
+2134,OMN,Omnova Solutions Inc
+2135,OMP,Oasis Midstream Partners LP
+2136,ONDK,On Deck Capital Inc
+2137,ONE,Onesmart International Education Group
+2138,OOMA,Ooma Inc
+2139,OPP,Rivernorth/Doubleline Strategic
+2140,OPY,Oppenheimer Holdings
+2141,OR,Osisko Gold Royalties Ltd
+2142,ORA,Ormat Technologies
+2143,ORAN,Orange ADR
+2144,ORC,Orchid Island Capital Inc
+2145,ORCC,Owl Rock Capital Corp
+2146,ORCL,Oracle Corp
+2147,ORI,Old Republic International Corp
+2148,ORN,Orion Group Holdings Inc
+2149,OSB,Norbord Inc
+2150,OSG,Overseas Shipholding Group Inc
+2151,OSK,Oshkosh Truck Corp
+2152,OSLE,Oaktree Specialty Lending Corp
+2153,OUT,Outfront Media Inc
+2154,OXM,Oxford Industries
+2155,OXY,Occidental Petroleum Corp
+2156,PAA,Plains All American Pipeline LP
+2157,PAC,Grupo Aeroportuario Del Pacifico
+2158,PAC.W,Ranpak Hldgs Corp [Pack/W]
+2159,PACD,Pacific Drilling S.A.
+2160,PACK,Ranpak Holdings Corp
+2161,PAG,Penske Automotive Group
+2162,PAGP,Plains Gp Holdings LP
+2163,PAGS,Pagseguro Digital Ltd Cl A
+2164,PAI,Pacific American Income Shares
+2165,PAM,Pampa Energia S.A.
+2166,PANW,Palo Alto Networks Inc
+2167,PAR,Par Technology Corp
+2168,PARR,Par Petroleum Corp
+2169,PAYC,Paycom Software Inc
+2170,PB,Prosperity Bancshares
+2171,PBA,Pembina Pipeline Cor
+2172,PBB,Prospect Capital Corp
+2173,PBC,Prospect Capital Corp 6.875% Notes Due
+2174,PBF,PBF Energy Inc
+2175,PBFX,PBF Logistics LP
+2176,PBH,Prestige Brand Holdings
+2177,PBI,Pitney Bowes Inc
+2178,PBI-B,Pitney Bowes Inc [Pbi/Pb]
+2179,PBR,Petroleo Brasileiro S.A. Petrobras
+2180,PBR.A,Petroleo Brasileiro Sa Petrobr ADR
+2181,PBT,Permian Basin Royalty Trust
+2182,PBY,Prospect Capital Corp 6.25% Notes Due
+2183,PCF,Putnam High Income Bond Fund
+2184,PCG,Pacific Gas & Electric Company
+2185,PCI,Pimco Dynamic Credit Income Fun
+2186,PCK,Pimco California Muni II
+2187,PCM,Pimco Commercial Mortgage Securities
+2188,PCN,Pimco Corporate
+2189,PCQ,Pimco California Muni
+2190,PD,Pagerduty Inc
+2191,PDI,Pimco Dynamic Income Fund
+2192,PDM,Piedmont Office Realty Trust
+2193,PDS,Precision Drilling Corp
+2194,PDT,John Hancock Premium Dividend Fund
+2195,PE,Parsley Energy
+2196,PEB,Pebblebrook Hotel Trust
+2197,PEB-C,Pebblebrook Hotel TR [Peb/Pc]
+2198,PEB-D,Pebblebrook Hotel TR [Peb/Pd]
+2199,PEB-E,Pebblebrook Hotel TR [Peb/Pe]
+2200,PEB-F,Pebblebrook Hotel TR [Peb/Pf]
+2201,PEG,Public Service Enterprise Group Inc
+2202,PEI,Pennsylvania Real Estate Investment
+2203,PEI-B,Pennsylvania Rl Estate Invt TR [Pei/Pb]
+2204,PEI-C,Pennsylvania Rl Estate Invt TR [Pei/Pc]
+2205,PEI-D,Pennsylvania Rl Estate Invt TR [Pei/Pd]
+2206,PEN,Penumbra Inc
+2207,PEO,Adams Natural Resources Fund Inc
+2208,PER,Sandridge Permian Trust
+2209,PFD,Flaherty & Crumrine Preferred Inc
+2210,PFE,Pfizer Inc
+2211,PFGC,Performance Food Group Company
+2212,PFH,Cabco TR Jcp 7.625
+2213,PFL,Pimco Income Strategy Fund
+2214,PFN,Pimco Income Strategy Fund II
+2215,PFO,Flaherty & Crumrine Preferred Fund
+2216,PFS,Provident Financial Services
+2217,PFSI,Pennymac Financial Services IN
+2218,PG,Procter & Gamble Company
+2219,PGP,Pimco Global Stocksplus & Income
+2220,PGR,Progressive Corp
+2221,PGRE,Paramount Group Inc
+2222,PGTI,Pgt Inc
+2223,PGZ,Principal Real Estate Income F
+2224,PH,Parker-Hannifin Corp
+2225,PHD,Pioneer Floating Rate Trust
+2226,PHG,Koninklijke Philips Electronics
+2227,PHI,Philippine Long Distance Telephone
+2228,PHK,Pimco High Income Fund
+2229,PHM,Pultegroup
+2230,PHR,Phreesia Inc
+2231,PHT,Pioneer High Income Trust
+2232,PHX,Panhandle Royalty Company
+2233,PIC,Pivotal Investment Corp II Cl A
+2234,PIC.U,Pivotal Invt Corp II
+2235,PIC.W,Pivotal Invt Corp II [Pic/W]
+2236,PII,Polaris Industries Inc
+2237,PIM,Putnam Master Intermediate Income
+2238,PING,Ping Identity Holding Corp
+2239,PINS,Pinterest Inc
+2240,PIR,Pier 1 Imports
+2241,PIY,Merrill Lynch Depositor
+2242,PJC,Piper Jaffray Companies
+2243,PJH,Prudential Financial Inc
+2244,PJT,Pjt Partners Inc Cl A
+2245,PK,Park Hotels & Resorts Inc
+2246,PKD,Parker Drilling Company
+2247,PKE,Park Electrochemical Corp
+2248,PKG,Packaging Corp of America
+2249,PKI,Perkinelmer
+2250,PKO,Pimco Income Opportunity Fund
+2251,PKX,Posco ADR
+2252,PLAN,Anaplan Inc
+2253,PLD,Prologis Inc
+2254,PLNT,Planet Fitness
+2255,PLOW,Douglas Dynamics
+2256,PLT,Plantronics
+2257,PM,Philip Morris International Inc
+2258,PMF,Pimco Muni
+2259,PML,Pimco Muni II
+2260,PMM,Putnam Managed Muni Income Trust
+2261,PMO,Putnam Muni Opportunities Trust
+2262,PMT,Pennymac Mortgage Investment Trust
+2263,PMT-A,Pennymac Mtg Invt TR [Pmt/Pa]
+2264,PMT-B,Pennymac Mtg Invt TR [Pmt/Pb]
+2265,PMX,Pimco Muni Income Fund III
+2266,PNC,PNC Bank
+2267,PNC-P,PNC Financial Services Group [Pnc/Pp]
+2268,PNC-Q,PNC Financial Services Group [Pnc/Pq]
+2269,PNF,Pimco New York Muni
+2270,PNI,Pimco New York Muni II
+2271,PNM,PNM Resources Inc
+2272,PNR,Pentair Ltd
+2273,PNW,Pinnacle West Capital Corp
+2274,POL,Polyone Corp
+2275,POR,Portland General Electric Company
+2276,POST,Post Holdings Inc
+2277,PPDF,Ppdai Group Inc
+2278,PPG,PPG Industries
+2279,PPL,PPL Corp
+2280,PPR,VOYA Prime Rate Trust
+2281,PPT,Putnam Premier Income Trust
+2282,PPX,PPL Capital Funding Inc
+2283,PQG,Pq Group Holdings Inc
+2284,PRA,Pro-Assurance Corp
+2285,PRE-F,Partnerre Ltd [Pre/Pf]
+2286,PRE-G,Partnerre Ltd [Pre/Pg]
+2287,PRE-H,Partnerre Ltd [Pre/Ph]
+2288,PRE-I,Partnerre Ltd [Pre/Pi]
+2289,PRGO,Perrigo Company
+2290,PRH,Prudential Financial Inc
+2291,PRI,Primerica Inc
+2292,PRI-A,Priority Income Fund Inc [Prif/Pa]
+2293,PRI-B,Priority Income Fund Inc [Prif/Pb]
+2294,PRI-C,Priority Income Fund Inc [Prif/Pc]
+2295,PRI-D,Priority Income Fund Inc [Prif/Pd]
+2296,PRI-E,Priority Income Fund Inc 6.375% Prf
+2297,PRLB,Proto Labs Inc
+2298,PRO,Pros Holdings
+2299,PROS,Prosight Global Inc
+2300,PRS,Prudential Financial Inc 5.625% Junior
+2301,PRSP,Perspecta Inc
+2302,PRT,Permrock Royalty Trust Trust Units
+2303,PRTY,Party City Holdco Inc
+2304,PRU,Prudential Financial Inc
+2305,PSA,Public Storage
+2306,PSA-A,Public Storage [Psa/Pa]
+2307,PSA-B,Public Storage [Psa/Pb]
+2308,PSA-C,Public Storage [Psa/Pc]
+2309,PSA-D,Public Storage [Psa/Pd]
+2310,PSA-E,Public Storage [Psa/Pe]
+2311,PSA-F,Public Storage [Psa/Pf]
+2312,PSA-G,Public Storage [Psa/Pg]
+2313,PSA-H,Public Storage [Psa/Ph]
+2314,PSA-I,Public Storage [Psa/Pi]
+2315,PSA-U,Public Storage [Psa/Pu]
+2316,PSA-V,Public Storage [Psa/Pv]
+2317,PSA-W,Public Storage [Psa/Pw]
+2318,PSA-X,Public Storage [Psa/Px]
+2319,PSB,Business Parks
+2320,PSB-U,PS Business Pks Inc Calif [Psb/Pu]
+2321,PSB-V,PS Business Pks Inc Calif [Psb/Pv]
+2322,PSB-W,PS Business Pks Inc Calif [Psb/Pw]
+2323,PSB-X,PS Business Pks Inc Calif [Psb/Px]
+2324,PSB-Y,PS Business Pks Inc Calif [Psb/Py]
+2325,PSF,Cohen & Steers Preferred Fund
+2326,PSN,Parsons Corp
+2327,PSO,Pearson Plc
+2328,PSTG,Pure Storage Inc
+2329,PSTL,Postal Realty Trust Cl A
+2330,PSV,Hermitage Offshore Services Ltd
+2331,PSX,Phillips 66
+2332,PSXP,Phillips 66 Partners LP
+2333,PTR,Petrochina Company Ltd
+2334,PTY,Pimco Corporate Opportunity Fund
+2335,PUK,Prudential Public Ltd Company
+2336,PUK-A,Prudential [Puk/Pa]
+2337,PUK.P,Prudential [Puk/P]
+2338,PUMP,Propetro Holding Corp
+2339,PVG,Pretium Res Inc
+2340,PVH,Phillips-Van Heusen Corp
+2341,PVL,Permianville Royalty Trust
+2342,PVT,Pivotal Acquisition Corp Cl A
+2343,PVT.U,Pivotal Acquisition Corp
+2344,PVT.W,Pivotal Acquisition Corp [Pvt/W]
+2345,PVTL,Pivotal Software Inc
+2346,PWR,Quanta Services
+2347,PXD,Pioneer Natural Resources Company
+2348,PYN,Pimco New York Muni Income Fund III
+2349,PYS,Pplus Trust
+2350,PYT,Pplus Trust
+2351,PYX,Pyxus International Inc
+2352,PZC,Pimco California Muni Income Fund III
+2353,PZN,Pzena Investment Management Inc
+2354,QD,Qudian Inc ADR
+2355,QEP,Qep Resources
+2356,QES,Quintana Energy Services Inc
+2357,QGEN,Qiagen N.V.
+2358,QHC,Quorum Health Corp
+2359,QSR,Restaurant Brands International
+2360,QTS,Qts Realty Trust Inc
+2361,QTS-A,Qts Rlty TR Inc [Qts/Pa]
+2362,QTS-B,Qts Rlty TR Inc [Qts/Pb]
+2363,QTWO,Q2 Holdings Inc
+2364,QUAD,Quad Graphics Inc
+2365,QUOT,Quotient Technology Inc
+2366,QVCD,Qvc Inc 6.375% Senior Secured Notes Due
+2367,R,Ryder System
+2368,RA,Brookfield Real Assets Income Fund Inc
+2369,RACE,Ferrari N.V.
+2370,RAD,Rite Aid Corp
+2371,RAMP,Liveramp Holdings Inc
+2372,RBA,Ritchie Bros. Auctioneers Inc
+2373,RBC,Regal-Beloit Corp
+2374,RBS,Royal Bank Scotland Group Plc
+2375,RC,Ready Capital Corp
+2376,RCA,Ready Capital Corp 7.00%
+2377,RCB,Ready Capital Corp 6.20% Senior Notes
+2378,RCI,Rogers Communication
+2379,RCL,Royal Caribbean Cruises Ltd
+2380,RCP,Ready Capital Corp 6.50% Series
+2381,RCS,Rcm Strategic Global Government Fund
+2382,RCUS,Arcus Biosciences Inc
+2383,RDN,Radian Group Inc
+2384,RDS.A,Royal Dutch Shell ADR Cl A
+2385,RDS.B,Royal Dutch Shell Cl B
+2386,RDY,Dr. Reddy's Laboratories Ltd
+2387,RE,Everest Re Group
+2388,RELX,Relx Plc
+2389,RENN,Renren Inc
+2390,RES,RPC Inc
+2391,RESI,Altisource Residential Corp
+2392,REV,Revlon Inc
+2393,REVG,Rev Group Inc
+2394,REX,Rex American Resources Corp
+2395,REX-A,Rexford Indl Rlty Inc [Rexr/Pa]
+2396,REX-B,Rexford Indl Rlty Inc [Rexr/Pb]
+2397,REX-C,Rexford Industrial Realty Inc 5.625% Prf
+2398,REXR,Rexford Industrial Realty Inc
+2399,REZI,Resideo Technologies Inc
+2400,RF,Regions Financial Corp
+2401,RF-A,Regions Financial Corp [Rf/Pa]
+2402,RF-B,Regions Financial Corp [Rf/Pb]
+2403,RF-C,Regions Financial Corp [Rf/Pc]
+2404,RFI,Cohen & Steers Total Return Realty Fund
+2405,RFP,Resolute Forest Products Inc
+2406,RGA,Reinsurance Group of America Inc
+2407,RGR,Sturm Ruger & Company
+2408,RGS,Regis Corp
+2409,RGT,Royce Global Value Trust Inc
+2410,RH,Restoration Hardware Holdings
+2411,RHI,Robert Half International Inc
+2412,RHP,Ryman Hospitality Properties REIT
+2413,RIG,Transocean Inc
+2414,RIO,Rio Tinto Plc
+2415,RIV,Rivernorth Opportunities Fund
+2416,RIV-R,Rivernorth Opprtunities Fd I [Riv/R]
+2417,RJF,Raymond James Financial
+2418,RL,Ralph Lauren Corp
+2419,RLGY,Realogy Holdings Corp
+2420,RLH,Red Lion Hotels Corp
+2421,RLI,Rli Corp
+2422,RLJ,Rlj Lodging Trust
+2423,RLJ-A,Rlj Lodging TR [Rlj/Pa]
+2424,RM,Regional Managment Corp
+2425,RMAX,Re/Max Holdings Inc
+2426,RMD,Resmed Inc
+2427,RMED,Ra Medical Systems Inc
+2428,RMG,Rmg Acquisition Corp Cl A
+2429,RMG.U,Rmg Acquisition Corp
+2430,RMG.W,Rmg Acquisition Corp [Rmg/W]
+2431,RMI,Rivernorth Opportunistic Municipal
+2432,RMM,Rivernorth Managed Duration Municipal
+2433,RMP.P,Rivernorth Marketplace Lending Corp
+2434,RMT,Royce Micro-Cap Trust
+2435,RNG,Ringcentral Inc
+2436,RNGR,Ranger Energy Services Inc Cl A
+2437,RNP,Cohen & Steers REIT and Preferred
+2438,RNR,Renaissancere Holdings Ltd
+2439,RNR-C,Renaissancere Holdings Ltd [Rnr/Pc]
+2440,RNR-E,Renaissancere Holdings Ltd [Rnr/Pe]
+2441,RNR-F,Renaissancere Holdings Ltd [Rnr/Pf]
+2442,ROAN,Roan Resources Inc
+2443,ROG,Rogers Corp
+2444,ROK,Rockwell Automation Inc
+2445,ROL,Rollins Inc
+2446,ROP,Roper Industries
+2447,ROYT,Pacific Coast Oil Trust
+2448,RPAI,Retail Properties of America
+2449,RPL.U,Replay Acquisition Corp [Rpla.U]
+2450,RPL.W,Replay Acquisition Corp [Rpla/W]
+2451,RPLA,Replay Acquisition Corp
+2452,RPM,RPM International Inc
+2453,RPT,Ramco-Gershenson Properties Trust
+2454,RPT-D,Rpt Realty [Rpt/Pd]
+2455,RQI,Cohen & Steers Quality Income Realty
+2456,RRC,Range Resources Corp
+2457,RRD,Donnelley [R.R.] & Sons Company
+2458,RRTS,Roadrunner Transportation Systems Inc
+2459,RS,Reliance Steel & Aluminum Company
+2460,RSF,Rivernorth Marketplace Lending Corp
+2461,RSG,Republic Services
+2462,RST,Rosetta Stone
+2463,RTEC,Rudolph Technologies
+2464,RTN,Raytheon Company
+2465,RTW,Rtw Retailwinds Inc
+2466,RUBI,The Rubicon Project Inc
+2467,RVI,Retail Value Inc
+2468,RVLV,Revolve Group Inc
+2469,RVT,Royce Value Trust
+2470,RWG.U,Regalwood Global Energy Ltd [Rwge.U]
+2471,RWG.W,Regalwood Global Energy Ltd [Rwge/W]
+2472,RWGE,Regalwood Global Energy Ltd Cl A
+2473,RWT,Redwood Trust
+2474,RXN,Rexnord Corp
+2475,RXN-A,Rexnord Corp [New] [Rxn/Pa]
+2476,RY,Royal Bank of Canada
+2477,RY-T,Royal Bank of Canada [Ry/Pt]
+2478,RYAM,Rayonier Advanced Materials Inc
+2479,RYB,Ryb Education Inc Aps
+2480,RYI,Ryerson Holding Corp
+2481,RYN,Rayonier Inc REIT
+2482,RZA,Reinsurance Group of America
+2483,RZB,Reinsurance Group of America
+2484,S,Sprint Corp
+2485,SA,Seabridge Gold
+2486,SAB,Saratoga Investment Corp 6.75% Notes Due
+2487,SAF,Saratoga Investment Corp
+2488,SAFE,Safehold Inc
+2489,SAH,Sonic Automotive
+2490,SAIC,Science Applications International
+2491,SAIL,Sailpoint Technologies Holdings Inc
+2492,SALT,Scorpio Bulkers Inc
+2493,SAM,Boston Beer Company
+2494,SAN,Banco Santander
+2495,SAN-B,Banco Santander Sa [San/Pb]
+2496,SAP,SAP Ag
+2497,SAR,Saratoga Investment Corp
+2498,SAVE,Spirit Airlines Inc
+2499,SB,Safe Bulkers Inc
+2500,SB-C,Safe Bulkers Inc [Sb/Pc]
+2501,SB-D,Safe Bulkers Inc [Sb/Pd]
+2502,SBE,Switchback Energy Acquisition Corp Cl A
+2503,SBE.U,Switchback Energy Acquisition Corp
+2504,SBE.W,Switchback Energy Acquisition Corp WT
+2505,SBGL,Sibanye Gold Ltd ADR
+2506,SBH,Sally Beauty Holdings
+2507,SBI,Western Asset Intermediate Fund Inc
+2508,SBNA,Scorpio Tankers Inc
+2509,SBOW,Silverbow Resources Inc
+2510,SBR,Sabine Royalty Trust
+2511,SBS,Cia DE Saneamento Basico Do Estado
+2512,SC,Santander Consumer USA Holdings
+2513,SCA,Stellus Capital Investment 5.75% Notes
+2514,SCCO,Southern Peru Copper Corp
+2515,SCD,Lmp Capital and Income Fund Inc
+2516,SCE-G,Sce Trust II [Sce/Pg]
+2517,SCE-H,Sce TR III [Sce/Ph]
+2518,SCE-J,Sce TR IV [Sce/Pj]
+2519,SCE-K,Sce Trust V [Sce/Pk]
+2520,SCE-L,Sce Trust Vi [Sce/Pl]
+2521,SCH-C,Charles Schwab Corp [Schw/Pc]
+2522,SCH-D,Charles Schwab Corp [Schw/Pd]
+2523,SCHW,The Charles Schwab Corp
+2524,SCI,Service Corp International
+2525,SCL,Stepan Company
+2526,SCM,Stellus Capital Investment Cor
+2527,SCP.U,SC Health Corp [Scpe.U]
+2528,SCP.W,SC Health Corp [Scpe/W]
+2529,SCPE,SC Health Corp Cl A
+2530,SCS,Steelcase Inc
+2531,SCU,Sculptor Capital Management Inc
+2532,SCX,L.S. Starrett Company
+2533,SD,Sandridge Energy Inc
+2534,SDR,Sandridge Mississippian Trust
+2535,SDRL,Seadrill Ltd
+2536,SDT,Sandridge Mississippian Trust
+2537,SE,Sea Ltd ADR
+2538,SEAS,Seaworld Entertainment Inc Company
+2539,SEE,Sealed Air Corp
+2540,SEM,Select Medical Holdings Corp
+2541,SEMG,Semgroup Corp
+2542,SERV,Servicemaster Global Holdings
+2543,SF,Stifel Financial Corp
+2544,SF-A,Stifel Financial Corp [Sf/Pa]
+2545,SF-B,Stifel Financial Corp [Sf/Pb]
+2546,SFB,Stifel Financial Corp 5.20% Senior Notes
+2547,SFE,Safeguard Scientifics
+2548,SFL,Ship Finance International
+2549,SFUN,Soufun Holdings
+2550,SGU,Star Gas Partners LP
+2551,SHAK,Shake Shack Inc
+2552,SHG,Shinhan Financial Group Co. Ltd
+2553,SHI,Sinopec Shangai Petrochemical Company
+2554,SHL.U,Tortoise Acquisition Corp [Shll.U]
+2555,SHL.W,Tortoise Acquisition Corp [Shll/W]
+2556,SHLL,Tortoise Acquisition Corp Cl A
+2557,SHLX,Shell Midstream Partners LP
+2558,SHO,Sunstone Hotel Investors
+2559,SHO-E,Sunstone Hotel Invs Inc [Sho/Pe]
+2560,SHO-F,Sunstone Hotel Invs Inc [Sho/Pf]
+2561,SHOP,Shopify Inc
+2562,SHW,Sherwin-Williams Company
+2563,SID,Companhia Siderurgica Nacional
+2564,SIG,Signet Jewelers Ltd
+2565,SIT-A,Site Centers Corp Shs Pfd Cl A
+2566,SIT-J,Site Centers Corp [Sitc/Pj]
+2567,SIT-K,Site Centers Corp [Sitc/Pk]
+2568,SITC,Site Centers Corp
+2569,SITE,Siteone Landscape Supply
+2570,SIX,Six Flags Entertainment Corp
+2571,SJI,South Jersey Industries
+2572,SJIJ,South Jersey Industries Inc 5.625%
+2573,SJIU,South Jersey Industries Inc
+2574,SJM,J.M. Smucker Company
+2575,SJR,Shaw Communications Inc
+2576,SJT,San Juan Basin Royalty Trust
+2577,SJW,SJW Corp
+2578,SKM,Sk Telecom Corp
+2579,SKT,Tanger Factory Outlet Centers
+2580,SKX,Skechers U.S.A.
+2581,SKY,Skyline Corp
+2582,SLB,Schlumberger N.V.
+2583,SLCA,U.S. Silica Holdings Inc
+2584,SLF,Sun Life Financial Inc
+2585,SLG,SL Green Realty Corp
+2586,SLG-I,SL Green Rlty Corp [Slg/Pi]
+2587,SM,Sm Energy Company
+2588,SMAR,Smartsheet Inc Cl A
+2589,SMFG,Sumitomo Mitsui Financial Group Inc
+2590,SMG,Scotts Miracle-Gro Company
+2591,SMHI,Seacor Marine Holdings Inc
+2592,SMLP,Summit Midstream Partners LP
+2593,SMM,Salient Midstream & MLP Fund
+2594,SMP,Standard Motor Products
+2595,SMTA,Spirit Mta REIT
+2596,SNA,Snap-On Inc
+2597,SNAP,Snap Inc
+2598,SNDR,Schneider National Inc
+2599,SNE,Sony Corp
+2600,SNN,Smith & Nephew Snats
+2601,SNP,China Petroleum & Chemical Corp
+2602,SNR,New Senior Investment Group Inc
+2603,SNV,Synovus Financial Corp
+2604,SNV-D,Synovus Financial Corp [Snv/Pd]
+2605,SNV-E,Synovus Finl Corp [Snv/Pe]
+2606,SNX,Synnex Corp
+2607,SO,Southern Company
+2608,SOGO,Sogou Inc
+2609,SOI,Solaris Oilfield Infrastructure Inc Cl A
+2610,SOJA,The Southern Co. Series
+2611,SOJB,Southern Company
+2612,SOJC,Southern Company Series 2017B 5.25%
+2613,SOL,Renesola Ltd
+2614,SOLN,Southern Company
+2615,SON,Sonoco Products Company
+2616,SOR,Source Capital
+2617,SPA.U,Spartan Energy Acquisiton Corp [Spaq.U]
+2618,SPA.W,Spartan Energy Acquisiton Corp [Spaq/W]
+2619,SPAQ,Spartan Energy Acquisition Corp Cl A
+2620,SPB,Spectrum Brands Holdings Inc
+2621,SPE,Special Opportunities Fund Inc
+2622,SPE-B,Special Opportunities Fd Inc [Spe/Pb]
+2623,SPG,Simon Property Group
+2624,SPG-J,Simon Ppty Group Inc [Spg/Pj]
+2625,SPGI,S&P; Global Inc
+2626,SPH,Suburban Propane Partners LP
+2627,SPL-A,Steel Partners Holdings LP [Splp/Pa]
+2628,SPLP,Steel Partners Hldgs
+2629,SPOT,Spotify Technology S.A.
+2630,SPR,Spirit Aerosystems Holdings
+2631,SPXC,SPX Corp
+2632,SPXX,Nuveen Equity Premium and Growth Fund
+2633,SQ,Square
+2634,SQM,Sociedad Quimica Y Minera S.A.
+2635,SQNS,Sequans Communications S A
+2636,SR,Spire Inc
+2637,SR-A,Spire Inc [Sr/Pa]
+2638,SRC,Spirit Realty Capital Inc
+2639,SRC-A,Spirit Rlty Cap Inc [Src/Pa]
+2640,SRE,Sempra Energy
+2641,SRE-A,Sempra Energy [Sre/Pa]
+2642,SRE-B,Sempra Energy [Sre/Pb]
+2643,SREA,Sempra Energy 5.750% Junior Subordinated
+2644,SRF,The Cushing Royalty & Income Fund
+2645,SRG,Seritage Growth Properties
+2646,SRG-A,Seritage Growth Pptys [Srg/Pa]
+2647,SRI,Stoneridge Inc
+2648,SRL,Scully Royalty Ltd
+2649,SRLP,Sprague Resources LP
+2650,SRT,Startek Inc
+2651,SRV,The Cushing MLP Total Return Fund
+2652,SSD,Simpson Manufacturing Company
+2653,SSI,Stage Stores
+2654,SSL,Sasol Ltd
+2655,SSTK,Shutterstock Inc
+2656,SSW,Seaspan Corp
+2657,SSW-D,Seaspan Corp [Ssw/Pd]
+2658,SSW-E,Seaspan Corp [Ssw/Pe]
+2659,SSW-G,Seaspan Corp [Ssw/Pg]
+2660,SSW-H,Seaspan Corp [Ssw/Ph]
+2661,SSW-I,Seaspan Corp [Ssw/Pi]
+2662,SSWA,Seaspan Corp 7.125% Notes Due 2027
+2663,ST,Sensata Technologies Holding N.V.
+2664,STA-C,Stag Indl Inc [Stag/Pc]
+2665,STA-D,Istar Inc [Star/Pd]
+2666,STA-G,Istar Inc [Star/Pg]
+2667,STA-I,Istar Inc [Star/Pi]
+2668,STAG,STI Inc
+2669,STAR,Istar Financial Inc
+2670,STC,Stewart Information Services Corp
+2671,STE,Steris Corp
+2672,STG,Sunlands Online Education Group ADR
+2673,STI,Suntrust Banks
+2674,STI-A,Suntrust Banks Inc [Sti/Pa]
+2675,STK,Columbia Seligman Premium Technology
+2676,STL,Sterling Bancorp
+2677,STL-A,Sterling Bancorp D [Stl/Pa]
+2678,STM,Stmicroelectronics N.V.
+2679,STN,Stantec Inc
+2680,STNG,Scorpio Tankers Inc
+2681,STON,Stonemor Partners LP
+2682,STOR,Store Capital Corpstore Capital
+2683,STT,State Street Corp
+2684,STT-C,State Street Corp [Stt/Pc]
+2685,STT-D,State Street Corp [Stt/Pd]
+2686,STT-E,State Street Corp [Stt/Pe]
+2687,STT-G,State Street Corp [Stt/Pg]
+2688,STWD,Starwood Property Trust
+2689,STZ,Constellation Brands Inc
+2690,STZ.B,Constellation Brd Cl B
+2691,SU,Suncor Energy Inc
+2692,SUI,Sun Communities
+2693,SUM,Summit Materials Inc
+2694,SUN,Sunoco LP
+2695,SUP,Superior Industries International
+2696,SUPV,Grupo Supervielle S.A.
+2697,SUZ,Suzano Papel E Celul
+2698,SWCH,Switch Inc
+2699,SWI,Solarwinds Corp
+2700,SWJ,Stanley Black & Decker Inc
+2701,SWK,Stanley Black & Decker Inc
+2702,SWM,Schweitzer-Mauduit International
+2703,SWN,Southwestern Energy Company
+2704,SWP,Stanley Black & Decker Inc
+2705,SWX,Southwest Gas Corp
+2706,SWZ,Swiss Helvetia Fund
+2707,SXC,Suncoke Energy Inc
+2708,SXI,Standex International Corp
+2709,SXT,Sensient Technologies Corp
+2710,SYF,Synchrony Financial
+2711,SYK,Stryker Corp
+2712,SYX,Systemax Inc
+2713,SYY,Sysco Corp
+2714,SZC,The Cushing Renaissance Fund
+2715,T,AT&T; Inc
+2716,TAC,Transalta Corp
+2717,TAK,Takeda Pharmaceutical Co. Ltd
+2718,TAL,Tal Education Group
+2719,TALO,Talos Energy Inc
+2720,TAP,Molson Coors Brewing Company
+2721,TAP.A,Molson Coors Brewing Cl A
+2722,TARO,Taro Pharm Inds
+2723,TBB,AT&T; Inc 5.350% Global Notes Due 2066
+2724,TBC,AT&T; Inc 5.625% Global Notes Due 2067
+2725,TBI,Trueblue Inc
+2726,TCI,Transcontinental Realty Investors
+2727,TCO,Taubman Centers
+2728,TCO-J,Taubman Ctrs Inc [Tco/Pj]
+2729,TCO-K,Taubman Ctrs Inc [Tco/Pk]
+2730,TCP,TCP Pipelines
+2731,TCRW,THL Credit Inc 6.125% Notes Due 2023
+2732,TCRZ,THL Credit Inc
+2733,TCS,The Container Store Group Inc
+2734,TD,Toronto Dominion Bank
+2735,TDA,Telephone and Data Systems Inc
+2736,TDC,Teradata Corp
+2737,TDE,Telephone and Data Systems
+2738,TDF,Templeton Dragon Fund
+2739,TDG,Transdigm Group Inc
+2740,TDI,Telephone and Data Systems
+2741,TDJ,Telephone and Data Systems Inc
+2742,TDOC,Teladoc Health Inc
+2743,TDS,Telephone and Data Systems
+2744,TDW,Tidewater Inc
+2745,TDW.A,Tidewater Inc [Tdw/Wa]
+2746,TDW.B,Tidewater Inc [Tdw/Wb]
+2747,TDY,Teledyne Technologies Inc
+2748,TEAF,Tortoise Essential Assets Income Term
+2749,TECK,Teck Resources Ltd
+2750,TEF,Telefonica S.A.
+2751,TEI,Templeton Emerging Markets
+2752,TEL,Te Connectivity Ltd
+2753,TEN,Tenneco Automotive
+2754,TEO,Telecom Argentina Stet France Telecom
+2755,TEVA,Teva Pharmaceutical Industries Ltd
+2756,TEX,Terex Corp
+2757,TFX,Teleflex Inc
+2758,TG,Tredegar Corp
+2759,TGE,Tallgrass Energy Gp LP
+2760,TGH,Textainer Group Holdings
+2761,TGI,Triumph Group
+2762,TGNA,Tegna Inc
+2763,TGP,Teekay Lng Partners LP
+2764,TGP-A,Teekay Lng Partners LP [Tgp/Pa]
+2765,TGP-B,Teekay Lng Partners LP [Tgp/Pb]
+2766,TGS,Transportadora DE Gas Sa Ord B
+2767,TGT,Target Corp
+2768,THC,Tenet Healthcare Corp
+2769,THG,The Hanover Insurance Group
+2770,THGA,The Hanover Insurance Group
+2771,THO,Thor Industries
+2772,THQ,Tekla Healthcare Opportunities
+2773,THR,Thermon Group Holdings Inc
+2774,THS,Treehouse Foods
+2775,THW,Tekla World Healthcare Fund
+2776,TIF,Tiffany & Company
+2777,TISI,Team Inc
+2778,TJX,TJX Companies
+2779,TK,Teekay Shipping Corp
+2780,TKC,Turkcell Iletisim Hizmetleri As
+2781,TKR,Timken Company
+2782,TLI,Lmp Corporate Loan Fund Inc
+2783,TLK,P.T. Telekomunikasi Indonesia Tbk
+2784,TLRA,Telaria Inc
+2785,TLRD,Tailored Brands Inc
+2786,TLYS,Tilly's Inc
+2787,TM,Toyota Motor Corp Ltd Ord
+2788,TME,Tencent Music Entertainment Group ADR
+2789,TMHC,Taylor Morrison Home Corp
+2790,TMO,Thermo Fisher Scientific Inc
+2791,TMST,Timken Steel Corp
+2792,TNC,Tennant Company
+2793,TNET,Trinet Group Inc
+2794,TNK,Teekay Tankers Ltd
+2795,TNP,Tsakos Energy Navigation Ltd
+2796,TNP-C,Tsakos Energy Navigation [Tnp/Pc]
+2797,TNP-D,Tsakos Energy Navigation [Tnp/Pd]
+2798,TNP-E,Tsakos Energy Navigation [Tnp/Pe]
+2799,TNP-F,Tsakos Energy Navigation [Tnp/Pf]
+2800,TOL,Toll Brothers Inc
+2801,TOO,Teekay Offshore Partners LP
+2802,TOO-A,Teekay Offshore Partners LP [Too/Pa]
+2803,TOO-B,Teekay Offshore Partners LP [Too/Pb]
+2804,TOO-E,Teekay Offshore Partners LP [Too/Pe]
+2805,TOT,Totalfinaelf S.A.
+2806,TPB,Turning Point Brands
+2807,TPC,Tutor Perini Corp
+2808,TPG.H,Tpg Pace Hldgs Corp [Tpgh.U]
+2809,TPG.I,Tpg Pace Hldgs Corp [Tpgh/W]
+2810,TPGH,Tpg Pace Holdings Corp Cl A
+2811,TPH,Tri Pointe Homes Inc
+2812,TPL,Texas Pacific Land Trust
+2813,TPR,Tapestry Inc
+2814,TPRE,Third Point Reinsurance Ltd Company
+2815,TPVG,Triplepoint Venture Growth Bdc
+2816,TPVY,Triplepoint Venture Growth Bdc Corp
+2817,TPX,Tempur-Pedic International Inc
+2818,TPZ,Tortoise Power and Energy
+2819,TR,Tootsie Roll Industries
+2820,TRC,Tejon Ranch Company
+2821,TREC,Trecora Resources
+2822,TREX,Trex Company
+2823,TRGP,Targa Resources
+2824,TRI,Thomson Reuters Corp
+2825,TRN,Trinity Industries
+2826,TRN.U,Trine Acquisition Corp [Trne.U]
+2827,TRN.W,Trine Acquisition Corp [Trne/W]
+2828,TRNE,Trine Acquisition Corp Cl A
+2829,TRNO,Terreno Realty Corp
+2830,TROX,Tronox Inc
+2831,TRP,Transcananda Pipelines
+2832,TRQ,Turquoise Hill Resources Ltd
+2833,TRT-A,Triton Intl Ltd [Trtn/Pa]
+2834,TRT-B,Triton Intl Ltd [Trtn/Pb]
+2835,TRTN,Triton International Ltd
+2836,TRTX,Tpg Re Finance Trust Inc
+2837,TRU,Transunion
+2838,TRV,The Travelers Companies Inc
+2839,TRWH,Twin River Worldwide Holdings Inc
+2840,TS,Tenaris S.A.
+2841,TSE,Trinseo S.A.
+2842,TSI,Tcw Strategic
+2843,TSLF,THL Credit Senior Loan Fund
+2844,TSLX,Tpg Specialty Lending Inc
+2845,TSM,Taiwan Semiconductor Manufacturing
+2846,TSN,Tyson Foods
+2847,TSQ,Townsquare Media Llc
+2848,TSU,Tim Participacoes S.A.
+2849,TTC,Toro Company
+2850,TTI,Tetra Technologies
+2851,TTM,Tata Motors Ltd
+2852,TTP,Tortoise Pipeline & Energy Fund
+2853,TU,Telus Corp Non Voting Shares
+2854,TUFN,Tufin Software Technologies Ltd
+2855,TUP,Tupperware Corp
+2856,TV,Grupo Televisa S.A.
+2857,TVC,Tennessee Valley Authority
+2858,TVE,Tennessee Valley Authority
+2859,TWI,Titan International
+2860,TWLO,Twilio
+2861,TWN,Taiwan Fund
+2862,TWO,Two Harbors Investments Corp
+2863,TWO-A,Two Hbrs Invt Corp [Two/Pa]
+2864,TWO-B,Two Hbrs Invt Corp [Two/Pb]
+2865,TWO-C,Two Hbrs Invt Corp [Two/Pc]
+2866,TWO-D,Two Hbrs Invt Corp [Two/Pd]
+2867,TWO-E,Two Hbrs Invt Corp [Two/Pe]
+2868,TWTR,Twitter Inc
+2869,TX,Ternium S.A.
+2870,TXT,Textron Inc
+2871,TY,Tri Continental Corp
+2872,TY.P,Tri Contl Corp [Ty/P]
+2873,TYG,Tortoise Energy Infrastructure Corp
+2874,TYL,Tyler Technologies
+2875,UA,Under Armour Inc Cl C
+2876,UAA,Under Armour
+2877,UAN,Cvr Partners LP
+2878,UBA,Urstadt Biddle Properties Inc
+2879,UBER,Uber Technologies Inc
+2880,UBP,Urstadt Biddle Properties Inc
+2881,UBP-G,Urstadt Biddle Pptys Inc [Ubp/Pg]
+2882,UBP-H,Urstadt Biddle Pptys Inc [Ubp/Ph]
+2883,UBP-K,Urstadt Biddle Properties Inc 5.875% Prf
+2884,UBS,UBS Group Ag
+2885,UDR,United Dominion Realty Trust
+2886,UE,Urban Edge Properties
+2887,UFI,Unifi Inc
+2888,UFS,Domtar Corp
+2889,UGI,Ugi Corp
+2890,UGP,Ultrapar Participacoes S.A.
+2891,UHS,Universal Health Services
+2892,UHT,Universal Health Realty Income Trust
+2893,UI,Ubiquiti Networks
+2894,UIS,Unisys Corp
+2895,UL,Unilever Plc
+2896,UMC,United Microelectronics Corp
+2897,UMH,Umh Properties
+2898,UMH-B,Umh Pptys Inc [Umh/Pb]
+2899,UMH-C,Umh Pptys Inc [Umh/Pc]
+2900,UMH-D,Umh Pptys Inc [Umh/Pd]
+2901,UN,Unilever NV
+2902,UNF,Unifirst Corp
+2903,UNFI,United Nat Foods
+2904,UNH,Unitedhealth Group Inc
+2905,UNM,Unumprovident Corp
+2906,UNMA,Unum Group 6.250% Junior Subordinated
+2907,UNP,Union Pacific Corp
+2908,UNT,Unit Corp
+2909,UNVR,Univar Inc
+2910,UPS,United Parcel Service
+2911,URI,United Rentals
+2912,USA,Liberty All-Star Equity Fund
+2913,USAC,USA Compression Partners LP
+2914,USB,U.S. Bancorp
+2915,USB-A,US Bancorp [Usb/Pa]
+2916,USB-H,US Bancorp [Usb/Ph]
+2917,USB-M,US Bancorp [Usb/Pm]
+2918,USB-O,US Bancorp [Usb/Po]
+2919,USB-P,US Bancorp Del [Usb/Pp]
+2920,USDP,USD Partners LP
+2921,USFD,US Foods Holding
+2922,USM,United States Cellular Corp
+2923,USNA,Usana Health Sciences Inc
+2924,USPH,U.S. Physical Therapy
+2925,USX,U.S. Xpress Enterprises Inc Cl A
+2926,UTF,Cohen & Steers Infrastructure Fund
+2927,UTI,Universal Technical Institute Inc
+2928,UTL,Unitil Corp
+2929,UTX,United Technologies Corp
+2930,UVE,Universal Insurance Holdings Inc
+2931,UVV,Universal Corp
+2932,UZA,United States Cellular Corp
+2933,UZB,United States Cellular Corp
+2934,UZC,United States Cellular Corp
+2935,V,Visa Inc
+2936,VAC,Marriot Vacations Worldwide Cor
+2937,VAL,Valaris Plc
+2938,VALE,Vale S.A.
+2939,VAM,The Vivaldi Opportunities Fund
+2940,VAPO,Vapotherm Inc
+2941,VAR,Varian Medical Systems
+2942,VBF,Invesco Van Kampen Bond Fund
+2943,VCIF,Vertical Capital Income Fund Common
+2944,VCRA,Vocera Communications Inc
+2945,VCV,Invesco California Value Muni Income
+2946,VEC,Vectrus Inc
+2947,VEDL,Vedanta Ltd
+2948,VEEV,Veeva Systems Inc
+2949,VER,Vereit Inc
+2950,VER-F,Vereit Inc [Ver/Pf]
+2951,VET,Vermilion Energy Inc
+2952,VFC,V.F. Corp
+2953,VG,Vonage Holdings
+2954,VGI,Virtus Global Multi-Sector Inc
+2955,VGM,Invesco Trust For Investment Grade
+2956,VGR,Vector Group Ltd
+2957,VHI,Valhi Inc
+2958,VICI,Vici Properties Inc
+2959,VIPS,Vipshop Holdings Ltd
+2960,VIST,Vista Oil & Gas S.A.B. DE C.V.
+2961,VIV,Telecomunicacoes DE Sao Paulo ADR
+2962,VJET,Voxeljet Ag
+2963,VKQ,Invesco Muni Trust
+2964,VLO,Valero Energy Corp
+2965,VLRS,Controladora Vuela Compaia DE
+2966,VLT,Invesco High
+2967,VMC,Vulcan Materials Company
+2968,VMI,Valmont Industries
+2969,VMO,Invesco Muni Opportunity Trust
+2970,VMW,Vmware Inc
+2971,VNCE,Vince Holding Corp
+2972,VNE,Veoneer Inc
+2973,VNO,Vornado Realty Trust
+2974,VNO-K,Vornado Rlty TR [Vno/Pk]
+2975,VNO-L,Vornado Rlty TR [Vno/Pl]
+2976,VNO-M,Vornado Rlty TR [Vno/Pm]
+2977,VNTR,Venator Materials Plc
+2978,VOC,Voc Energy Trust
+2979,VOY-B,VOYA Finl Inc [Voya/Pb]
+2980,VOYA,VOYA Financial Inc
+2981,VPG,Vishay Precision Group
+2982,VPV,Invesco Pennsylvania Muni
+2983,VRS,Verso Corp
+2984,VRTV,Veritiv Corp
+2985,VSH,Vishay Intertechnology
+2986,VSI,Vitamin Shoppe Inc
+2987,VSLR,Vivint Solar Inc
+2988,VSM,Versum Materials Inc
+2989,VST,Vistra Energy Corp
+2990,VST.A,Vistra Energy Corp [Vst/Wa]
+2991,VSTO,Vista Outdoor Inc
+2992,VTA,Invesco Dynamic Credit Fund
+2993,VTN,Invesco Trust New York Muni
+2994,VTR,Ventas Inc
+2995,VVI,Viad Corp
+2996,VVR,Invesco Senior Income Trust
+2997,VVV,Valvoline Inc
+2998,VZ,Verizon Communications Inc
+2999,W,Wayfair Inc
+3000,WAAS,Aquaventure Holdings Ltd
+3001,WAB,Wabtec Corp
+3002,WAIR,Wesco Aircraft Holdings Inc
+3003,WAL,Western Alliance Bancorp
+3004,WALA,Western Alliance Bancorp
+3005,WAT,Waters Corp
+3006,WBAI,WBC
+3007,Wabco Holdings Inc,WBK
+3008,Westpac Banking Corp,WBS
+3009,Webster Financial Corp,WBS-F
+3010,Webster Financial Corp [Wbs/Pf],WBT
+3011,Welbilt Inc,WCC
+3012,Wesco International,WCG
+3013,Wellcare Group,WCN
+3014,Waste Connections Inc,WD
+3015,Walker & Dunlop,WDR
+3016,Waddell & Reed Financial,WEA
+3017,Western Asset Bond Fund,WEC
+3018,Wisconsin Energy Corp,WEI
+3019,Weidai Ltd ADR,WELL
+3020,Welltower Inc,WES
+3021,Western Midstream Partners LP,WEX
+3022,Wex Inc,WF
+3023,Woori Finance Holdings Co. Ltd,WFC
+3024,Wells Fargo & Company,WFC-L
+3025,Wells Fargo & Company [Wfc/Pl],WFC-N
+3026,Wells Fargo & Company [Wfc/Pn],WFC-O
+3027,Wells Fargo & Company [Wfc/Po],WFC-P
+3028,Wells Fargo & Company [Wfc/Pp],WFC-Q
+3029,Wells Fargo & Company [Wfc/Pq],WFC-R
+3030,Wells Fargo & Company [Wfc/Pr],WFC-T
+3031,Wells Fargo & Company [Wfc/Pt],WFC-V
+3032,Wells Fargo & Company [Wfc/Pv],WFC-W
+3033,Wells Fargo & Company [Wfc/Pw],WFC-X
+3034,Wells Fargo & Company [Wfc/Px],WFC-Y
+3035,Wells Fargo & Company [Wfc/Py],WFE-A
+3036,Wells Fargo Real Estate Invt Corp,WGO
+3037,Winnebago Industries,WH
+3038,Wyndham Hotels & Resorts Inc,WHD
+3039,Cactus Inc Cl A,WHG
+3040,Westwood Holdings Group Inc,WHR
+3041,Whirlpool Corp,WIA
+3042,U.S. Treasury Inflation Prot Secs Fd,WIT
+3043,Wipro Ltd,WIW
+3044,U.S Treasury Inflation Prot Secs Fd 2,WK
+3045,Workiva Llc,WLH
+3046,William Lyon Homes,WLK
+3047,Westlake Chemical Corp,WLKP
+3048,Westlake Chemical Partners LP,WLL
+3049,Whiting Petroleum Corp,WM
+3050,Waste Management,WMB
+3051,Williams Companies,WMC
+3052,Western Asset Mortgage Capital,WMK
+3053,Weis Markets,WMS
+3054,Advanced Drainage Systems Inc,WMT
+3055,Wal-Mart Stores,WNC
+3056,Wabash National Corp,WNS
+3057,Wns Ltd,WOR
+3058,Worthington Industries,WORK
+3059,Slack Technologies Inc,WOW
+3060,Wideopenwest Inc,WPC
+3061,W.P. Carey & Co. Llc,WPG
+3062,Washington Prime Group Inc,WPG-H
+3063,Washington Prime Group [Wpg/Ph],WPG-I
+3064,Washington Prime Group [Wpg/Pi],WPM
+3065,Wheaton Precious Metals,WPP
+3066,Wpp Plc ADR,WPX
+3067,Wpx Energy Inc,WRB
+3068,W.R. Berkley Corp,WRB-B
+3069,Berkley[W.R.]Corp [Wrb/Pb],WRB-C
+3070,Berkley[W.R.]Corp [Wrb/Pc],WRB-D
+3071,Berkley[W.R.]Corp [Wrb/Pd],WRB-E
+3072,Berkley[W.R.]Corp [Wrb/Pe],WRE
+3073,Washington Real Estate Investment,WRI
+3074,Weingarten Realty Investors,WRK
+3075,Westrock Company,WSM
+3076,Williams-Sonoma,WSO
+3077,Watsco Inc,WSO.B
+3078,Watsco Inc Cl B,WSR
+3079,Whitestone REIT,WST
+3080,West Pharmaceutical Services,WTI
+3081,W&T; Offshore,WTM
+3082,White Mountains Insurance Group,WTR
+3083,Aqua America,WTRU
+3084,Aqua America Inc 6.00% Tangible Equity,WTS
+3085,Watts Water Technologies,WTTR
+3086,Select Energy Services Inc,WU
+3087,Western Union Company,WUBA
+3088,WWE,World Wrestling Entertainment
+3089,WWW,Wolverine World Wide
+3090,WY,Weyerhaeuser Company
+3091,WYND,Wyndham Destinations Inc
+3092,X,United States Steel Corp
+3093,XAN,Exantas Capital Corp
+3094,XAN-C,Exantas Cap Corp [Xan/Pc]
+3095,XEC,Cimarex Energy Company
+3096,XFLT,Xai Octagon Floating Alt Income Term
+3097,XHR,Xenia Hotels & Resorts Inc
+3098,XIN,Xinyuan Real Estate Co. Ltd
+3099,XOM,Exxon Mobil Corp
+3100,XPO,Xpo Logistics Inc
+3101,XRF,China Rapid Finance Ltd ADR
+3102,XRX,Xerox Corp
+3103,XYF,X Financial
+3104,XYL,Xylem Inc
+3105,Y,Alleghany Corp
+3106,YELP,Yelp Inc
+3107,YETI,Yeti Holdings Inc
+3108,YEXT,Yext Inc
+3109,YPF,Ypf Sociedad Anonima
+3110,YRD,Yirendai Ltd
+3111,YUM,Yum! Brands
+3112,YUMC,Yum China Holdings Inc
+3113,ZAYO,Zayo Group Holdings Inc
+3114,ZB-A,Zions Bancorp N A [Zb/Pa]
+3115,ZB-G,Zions Bancorp N A [Zb/Pg]
+3116,ZB-H,Zions Bancorp N A [Zb/Ph]
+3117,ZBH,Zimmer Biomet Holdings
+3118,ZBK,Zion Bancorp
+3119,ZEN,Zendesk Inc
+3120,ZF,Zweig Fund
+3121,ZNH,China Southern Airlines Company
+3122,ZTO,Zto Express [Cayman] Inc
+3123,ZTR,Zweig Total Return Fund
+3124,ZTS,Zoetis Inc Cl A
+3125,ZUO,Zuora Inc
+3126,ZYME,Zymeworks Inc
